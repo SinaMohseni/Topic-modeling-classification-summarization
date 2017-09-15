@@ -1,11 +1,7 @@
 [
  {
   "docName": "Disappearance 1", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "george", 
    "tomorrow", 
@@ -16,11 +12,7 @@
  }, 
  {
   "docName": "Disappearance 2", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "pictures", 
    "succeeded", 
@@ -31,11 +23,7 @@
  }, 
  {
   "docName": "Disappearance 3", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "opening", 
    "cut", 
@@ -46,11 +34,7 @@
  }, 
  {
   "docName": "Disappearance 4", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kidnapped", 
    "feared", 
@@ -61,11 +45,7 @@
  }, 
  {
   "docName": "Disappearance 5", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "gone", 
    "far", 
@@ -76,11 +56,7 @@
  }, 
  {
   "docName": "Disappearance 6", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "construction", 
    "roof", 
@@ -91,11 +67,7 @@
  }, 
  {
   "docName": "Disappearance 7", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "whether", 
    "kidnapped", 
@@ -106,11 +78,7 @@
  }, 
  {
   "docName": "Disappearance 8", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "speculation", 
    "newfound", 
@@ -121,11 +89,7 @@
  }, 
  {
   "docName": "Disappearance 9", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "accardi", 
    "captain", 
@@ -136,11 +100,7 @@
  }, 
  {
   "docName": "Disappearance 10", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "hard", 
    "speaks", 
@@ -151,11 +111,7 @@
  }, 
  {
   "docName": "Disappearance 11", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "restlessness", 
    "provoked", 
@@ -166,11 +122,7 @@
  }, 
  {
   "docName": "Disappearance 12", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "explosion", 
    "away", 
@@ -181,11 +133,7 @@
  }, 
  {
   "docName": "Disappearance 13", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "outlets", 
    "number", 
@@ -196,7 +144,7 @@
  }, 
  {
   "docName": "Disappearance 14", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "hatches", 
    "entrargli", 
@@ -207,11 +155,7 @@
  }, 
  {
   "docName": "Disappearance 15", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "death", 
    "karel", 
@@ -222,11 +166,7 @@
  }, 
  {
   "docName": "Disappearance 16", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "apparent", 
    "arrived", 
@@ -237,11 +177,7 @@
  }, 
  {
   "docName": "Disappearance 17", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "driver", 
    "vehicle", 
@@ -252,11 +188,7 @@
  }, 
  {
   "docName": "Disappearance 18", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "raising", 
    "confusing", 
@@ -267,11 +199,7 @@
  }, 
  {
   "docName": "Disappearance 19", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "plane", 
    "second", 
@@ -282,11 +210,7 @@
  }, 
  {
   "docName": "Disappearance 20", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "room", 
    "unknown", 
@@ -297,11 +221,7 @@
  }, 
  {
   "docName": "Disappearance 21", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "nespola", 
    "oil", 
@@ -312,11 +232,7 @@
  }, 
  {
   "docName": "Disappearance 22", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "drug", 
    "related", 
@@ -327,11 +243,7 @@
  }, 
  {
   "docName": "Disappearance 23", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "coordinator", 
    "modernizations", 
@@ -342,11 +254,7 @@
  }, 
  {
   "docName": "Disappearance 24", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "mob", 
    "protestors", 
@@ -357,11 +265,7 @@
  }, 
  {
   "docName": "Disappearance 25", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "district", 
    "siopa", 
@@ -383,11 +287,7 @@
  }, 
  {
   "docName": "Disappearance 27", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "newfound", 
    "locate", 
@@ -398,11 +298,7 @@
  }, 
  {
   "docName": "Disappearance 28", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "million", 
    "billionaire", 
@@ -413,11 +309,7 @@
  }, 
  {
   "docName": "Disappearance 29", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "disorder", 
    "protesters", 
@@ -428,11 +320,7 @@
  }, 
  {
   "docName": "Disappearance 30", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "destination", 
    "plane", 
@@ -443,11 +331,7 @@
  }, 
  {
   "docName": "Disappearance 31", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "afd", 
    "heard", 
@@ -458,11 +342,7 @@
  }, 
  {
   "docName": "Disappearance 32", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "individuals", 
    "missing", 
@@ -473,11 +353,7 @@
  }, 
  {
   "docName": "Disappearance 33", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "banned", 
    "tethys", 
@@ -488,11 +364,7 @@
  }, 
  {
   "docName": "Disappearance 34", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "hospital", 
    "new", 
@@ -503,11 +375,7 @@
  }, 
  {
   "docName": "Disappearance 35", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "wfa", 
    "demanding", 
@@ -518,11 +386,7 @@
  }, 
  {
   "docName": "Disappearance 36", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "hard", 
    "lawbreakers", 
@@ -533,11 +397,7 @@
  }, 
  {
   "docName": "Disappearance 37", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "real", 
    "evacuamento", 
@@ -548,11 +408,7 @@
  }, 
  {
   "docName": "Disappearance 38", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "leadership", 
    "avila", 
@@ -563,11 +419,7 @@
  }, 
  {
   "docName": "Disappearance 39", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "robbed", 
    "suspicion", 
@@ -578,11 +430,7 @@
  }, 
  {
   "docName": "Disappearance 40", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "reception", 
    "avila", 
@@ -593,11 +441,7 @@
  }, 
  {
   "docName": "Disappearance 41", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "affairs", 
    "update", 
@@ -608,11 +452,7 @@
  }, 
  {
   "docName": "Disappearance 42", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "assembly", 
    "vote", 
@@ -623,11 +463,7 @@
  }, 
  {
   "docName": "Disappearance 43", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "ministry", 
    "tethyn", 
@@ -638,7 +474,7 @@
  }, 
  {
   "docName": "Disappearance 44", 
-  "classNum": 4, 
+  "classNum": 1, 
   "events": [
    "gas", 
    "centrum", 
@@ -660,11 +496,7 @@
  }, 
  {
   "docName": "Disappearance 46", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "aiding", 
    "funded", 
@@ -675,11 +507,7 @@
  }, 
  {
   "docName": "Disappearance 47", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "elian", 
    "remind", 
@@ -690,11 +518,7 @@
  }, 
  {
   "docName": "Disappearance 48", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "health", 
    "elodis", 
@@ -705,11 +529,7 @@
  }, 
  {
   "docName": "Disappearance 49", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "previewed", 
    "modernizations", 
@@ -720,11 +540,7 @@
  }, 
  {
   "docName": "Disappearance 50", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "occupants", 
    "building", 
@@ -735,11 +551,7 @@
  }, 
  {
   "docName": "Disappearance 51", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kidnapped", 
    "tethyn", 
@@ -750,11 +562,7 @@
  }, 
  {
   "docName": "Disappearance 52", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "district", 
    "looting", 
@@ -765,11 +573,7 @@
  }, 
  {
   "docName": "Disappearance 53", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "conference", 
    "occupants", 
@@ -780,11 +584,7 @@
  }, 
  {
   "docName": "Disappearance 54", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "juliana", 
    "poisoned", 
@@ -795,11 +595,7 @@
  }, 
  {
   "docName": "Disappearance 55", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "force", 
    "conference", 
@@ -810,11 +606,7 @@
  }, 
  {
   "docName": "Disappearance 56", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "ransom", 
    "made", 
@@ -836,11 +628,7 @@
  }, 
  {
   "docName": "Disappearance 58", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "better", 
    "want", 
@@ -851,11 +639,7 @@
  }, 
  {
   "docName": "Disappearance 59", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "ratio", 
    "minor", 
@@ -866,11 +650,7 @@
  }, 
  {
   "docName": "Disappearance 60", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "facility", 
    "gates", 
@@ -881,11 +661,7 @@
  }, 
  {
   "docName": "Disappearance 61", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "better", 
    "tomorrow", 
@@ -896,11 +672,7 @@
  }, 
  {
   "docName": "Disappearance 62", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "elodis", 
    "health", 
@@ -911,11 +683,7 @@
  }, 
  {
   "docName": "Disappearance 63", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "boring", 
    "verrichtingen", 
@@ -926,11 +694,7 @@
  }, 
  {
   "docName": "Disappearance 64", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "fortune", 
    "coffers", 
@@ -941,11 +705,7 @@
  }, 
  {
   "docName": "Disappearance 65", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "wfa", 
    "high", 
@@ -956,11 +716,7 @@
  }, 
  {
   "docName": "Disappearance 66", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "pok", 
    "force", 
@@ -971,11 +727,7 @@
  }, 
  {
   "docName": "Disappearance 67", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "successful", 
    "celebrating", 
@@ -986,7 +738,7 @@
  }, 
  {
   "docName": "Disappearance 68", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "times", 
    "october", 
@@ -997,11 +749,7 @@
  }, 
  {
   "docName": "Disappearance 69", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "annul", 
    "prompted", 
@@ -1012,11 +760,7 @@
  }, 
  {
   "docName": "Disappearance 70", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "missing", 
    "end", 
@@ -1027,11 +771,7 @@
  }, 
  {
   "docName": "Disappearance 71", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "health", 
    "elodis", 
@@ -1042,11 +782,7 @@
  }, 
  {
   "docName": "Disappearance 72", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "shifts", 
    "hearth", 
@@ -1057,11 +793,7 @@
  }, 
  {
   "docName": "Disappearance 73", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "willing", 
    "personal", 
@@ -1072,11 +804,7 @@
  }, 
  {
   "docName": "Disappearance 74", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "conference", 
    "kidnapped", 
@@ -1087,11 +815,7 @@
  }, 
  {
   "docName": "Disappearance 75", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "building", 
    "alarm", 
@@ -1102,11 +826,7 @@
  }, 
  {
   "docName": "Disappearance 76", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "demonstration", 
    "command", 
@@ -1117,11 +837,7 @@
  }, 
  {
   "docName": "Disappearance 77", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "vehicle", 
    "accident", 
@@ -1132,11 +848,7 @@
  }, 
  {
   "docName": "Disappearance 78", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "kidnapped", 
    "conference", 
@@ -1158,11 +870,7 @@
  }, 
  {
   "docName": "Disappearance 80", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "rescue", 
    "kidnapped", 
@@ -1173,11 +881,7 @@
  }, 
  {
   "docName": "Disappearance 81", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "turnout", 
    "gear", 
@@ -1188,11 +892,7 @@
  }, 
  {
   "docName": "Disappearance 82", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "protestateurs", 
    "force", 
@@ -1203,11 +903,7 @@
  }, 
  {
   "docName": "Disappearance 83", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "firemen", 
    "building", 
@@ -1218,11 +914,7 @@
  }, 
  {
   "docName": "Disappearance 84", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "protesters", 
    "concert", 
@@ -1233,11 +925,7 @@
  }, 
  {
   "docName": "Disappearance 85", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "health", 
    "elodis", 
@@ -1248,11 +936,7 @@
  }, 
  {
   "docName": "Disappearance 86", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "elian", 
    "mission", 
@@ -1263,11 +947,7 @@
  }, 
  {
   "docName": "Disappearance 87", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "alarm", 
    "pulled", 
@@ -1278,11 +958,7 @@
  }, 
  {
   "docName": "Disappearance 88", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "wfa", 
    "pok", 
@@ -1293,7 +969,7 @@
  }, 
  {
   "docName": "Disappearance 89", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "taken", 
    "measurement", 
@@ -1304,11 +980,7 @@
  }, 
  {
   "docName": "Disappearance 90", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "defeated", 
    "taxes", 
@@ -1319,11 +991,7 @@
  }, 
  {
   "docName": "Disappearance 91", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "tomorrow", 
    "set", 
@@ -1334,11 +1002,7 @@
  }, 
  {
   "docName": "Disappearance 92", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "removal", 
    "hoofdkwartier", 
@@ -1349,11 +1013,7 @@
  }, 
  {
   "docName": "Disappearance 93", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "task", 
    "terrorist", 
@@ -1364,11 +1024,7 @@
  }, 
  {
   "docName": "Disappearance 94", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "detailed", 
    "wonders", 
@@ -1379,11 +1035,7 @@
  }, 
  {
   "docName": "Disappearance 95", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "wfa", 
    "julian", 
@@ -1394,7 +1046,7 @@
  }, 
  {
   "docName": "Disappearance 96", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "income", 
    "cheap", 
@@ -1405,11 +1057,7 @@
  }, 
  {
   "docName": "Disappearance 97", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "pos", 
    "raising", 
@@ -1420,11 +1068,7 @@
  }, 
  {
   "docName": "Disappearance 98", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "tincelant", 
    "taxes", 
@@ -1435,11 +1079,7 @@
  }, 
  {
   "docName": "Disappearance 99", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "airport", 
    "jet", 
@@ -1450,11 +1090,7 @@
  }, 
  {
   "docName": "Disappearance 100", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "gathering", 
    "pok", 
@@ -1465,11 +1101,7 @@
  }, 
  {
   "docName": "Disappearance 101", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "exploration", 
    "sanjorge", 
@@ -1480,11 +1112,7 @@
  }, 
  {
   "docName": "Disappearance 102", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "sirene", 
    "squad", 
@@ -1495,7 +1123,7 @@
  }, 
  {
   "docName": "Disappearance 103", 
-  "classNum": 4, 
+  "classNum": 1, 
   "events": [
    "brakes", 
    "curve", 
@@ -1517,11 +1145,7 @@
  }, 
  {
   "docName": "Disappearance 105", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "standard", 
    "flame", 
@@ -1532,11 +1156,7 @@
  }, 
  {
   "docName": "Disappearance 106", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "reception", 
    "reinvestimento", 
@@ -1558,11 +1178,7 @@
  }, 
  {
   "docName": "Disappearance 108", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "modernizations", 
    "pulled", 
@@ -1573,11 +1189,7 @@
  }, 
  {
   "docName": "Disappearance 109", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "explainer", 
    "order", 
@@ -1588,11 +1200,7 @@
  }, 
  {
   "docName": "Disappearance 110", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "afd", 
    "modernizations", 
@@ -1603,11 +1211,7 @@
  }, 
  {
   "docName": "Disappearance 111", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "explosion", 
    "necklaces", 
@@ -1618,11 +1222,7 @@
  }, 
  {
   "docName": "Disappearance 112", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "removal", 
    "ransom", 
@@ -1633,11 +1233,7 @@
  }, 
  {
   "docName": "Disappearance 113", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "bend", 
    "blocked", 
@@ -1659,11 +1255,7 @@
  }, 
  {
   "docName": "Disappearance 115", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "vehicle", 
    "assault", 
@@ -1674,11 +1266,7 @@
  }, 
  {
   "docName": "Disappearance 116", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "collision", 
    "vehicle", 
@@ -1689,11 +1277,7 @@
  }, 
  {
   "docName": "Disappearance 117", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "karel", 
    "research", 
@@ -1704,11 +1288,7 @@
  }, 
  {
   "docName": "Disappearance 118", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "protestateurs", 
    "force", 
@@ -1719,11 +1299,7 @@
  }, 
  {
   "docName": "Disappearance 119", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "construction", 
    "nation", 
@@ -1734,11 +1310,7 @@
  }, 
  {
   "docName": "Disappearance 120", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "pok", 
    "decision", 
@@ -1749,11 +1321,7 @@
  }, 
  {
   "docName": "Disappearance 121", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "violence", 
    "peaceful", 
@@ -1764,11 +1332,7 @@
  }, 
  {
   "docName": "Disappearance 122", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "phillies", 
    "chamberlain", 
@@ -1779,7 +1343,7 @@
  }, 
  {
   "docName": "Disappearance 123", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "gang", 
    "kapelou", 
@@ -1790,11 +1354,7 @@
  }, 
  {
   "docName": "Disappearance 124", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "bend", 
    "tiskele", 
@@ -1805,11 +1365,7 @@
  }, 
  {
   "docName": "Disappearance 125", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "instructed", 
    "everyone", 
@@ -1820,11 +1376,7 @@
  }, 
  {
   "docName": "Disappearance 126", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "building", 
    "update", 
@@ -1835,11 +1387,7 @@
  }, 
  {
   "docName": "Disappearance 127", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "poisoned", 
    "juliana", 
@@ -1850,7 +1398,7 @@
  }, 
  {
   "docName": "Disappearance 128", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "individuals", 
    "inspiegati", 
@@ -1861,11 +1409,7 @@
  }, 
  {
   "docName": "Disappearance 129", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "desk", 
    "donors", 
@@ -1876,7 +1420,7 @@
  }, 
  {
   "docName": "Disappearance 130", 
-  "classNum": 1, 
+  "classNum": 3, 
   "events": [
    "letters", 
    "threat", 
@@ -1887,11 +1431,7 @@
  }, 
  {
   "docName": "Disappearance 131", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "limousine", 
    "gerhard", 
@@ -1902,11 +1442,7 @@
  }, 
  {
   "docName": "Disappearance 132", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "better", 
    "accountancy", 
@@ -1917,11 +1453,7 @@
  }, 
  {
   "docName": "Disappearance 133", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "king", 
    "construction", 
@@ -1932,11 +1464,7 @@
  }, 
  {
   "docName": "Disappearance 134", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "explosion", 
    "collars", 
@@ -1947,11 +1475,7 @@
  }, 
  {
   "docName": "Disappearance 135", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "telephone", 
    "try", 
@@ -1962,7 +1486,7 @@
  }, 
  {
   "docName": "Disappearance 136", 
-  "classNum": 1, 
+  "classNum": 4, 
   "events": [
    "drug", 
    "caramel", 
@@ -1973,11 +1497,7 @@
  }, 
  {
   "docName": "Disappearance 137", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "uneven", 
    "construction", 
@@ -1988,11 +1508,7 @@
  }, 
  {
   "docName": "Disappearance 138", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "elodis", 
    "health", 
@@ -2003,11 +1519,7 @@
  }, 
  {
   "docName": "Disappearance 139", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "explosion", 
    "bend", 
@@ -2018,11 +1530,7 @@
  }, 
  {
   "docName": "Disappearance 140", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "riot", 
    "annual", 
@@ -2033,11 +1541,7 @@
  }, 
  {
   "docName": "Disappearance 141", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "commissioner", 
    "elodis", 
@@ -2048,11 +1552,7 @@
  }, 
  {
   "docName": "Disappearance 142", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "elodis", 
    "website", 
@@ -2074,11 +1574,7 @@
  }, 
  {
   "docName": "Disappearance 144", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "employs", 
    "reunion", 
@@ -2089,11 +1585,7 @@
  }, 
  {
   "docName": "Disappearance 145", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "district", 
    "siopa", 
@@ -2104,11 +1596,7 @@
  }, 
  {
   "docName": "Disappearance 146", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "barricades", 
    "construction", 
@@ -2119,11 +1607,7 @@
  }, 
  {
   "docName": "Disappearance 147", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "employs", 
    "reunion", 
@@ -2134,11 +1618,7 @@
  }, 
  {
   "docName": "Disappearance 148", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "sanjorge", 
    "take", 
@@ -2149,11 +1629,7 @@
  }, 
  {
   "docName": "Disappearance 149", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "removal", 
    "disappeared", 
@@ -2164,11 +1640,7 @@
  }, 
  {
   "docName": "Disappearance 150", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "trapan", 
    "unofficial", 
@@ -2179,11 +1651,7 @@
  }, 
  {
   "docName": "Disappearance 151", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "aiding", 
    "teams", 
@@ -2194,11 +1662,7 @@
  }, 
  {
   "docName": "Disappearance 152", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "representatives", 
    "responsibility", 

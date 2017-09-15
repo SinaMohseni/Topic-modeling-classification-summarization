@@ -1,11 +1,7 @@
 [
  {
   "docName": "TerroristActivity 1", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "nationsbank", 
    "boatmen", 
@@ -16,11 +12,7 @@
  }, 
  {
   "docName": "TerroristActivity 2", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "district", 
    "school", 
@@ -31,7 +23,7 @@
  }, 
  {
   "docName": "TerroristActivity 3", 
-  "classNum": 1, 
+  "classNum": 4, 
   "events": [
    ".'')", 
    "hiroko", 
@@ -42,7 +34,7 @@
  }, 
  {
   "docName": "TerroristActivity 4", 
-  "classNum": 1, 
+  "classNum": 4, 
   "events": [
    "codi", 
    "derryberry", 
@@ -53,11 +45,7 @@
  }, 
  {
   "docName": "TerroristActivity 5", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "spain", 
    "television", 
@@ -68,11 +56,7 @@
  }, 
  {
   "docName": "TerroristActivity 6", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "tam", 
    "noel", 
@@ -83,11 +67,7 @@
  }, 
  {
   "docName": "TerroristActivity 7", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "mice", 
    "emails", 
@@ -98,11 +78,7 @@
  }, 
  {
   "docName": "TerroristActivity 8", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "racket", 
    "lutes", 
@@ -113,11 +89,7 @@
  }, 
  {
   "docName": "TerroristActivity 9", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "lire", 
    "dividend", 
@@ -128,11 +100,7 @@
  }, 
  {
   "docName": "TerroristActivity 10", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "fleming", 
    "jardine", 
@@ -143,7 +111,7 @@
  }, 
  {
   "docName": "TerroristActivity 11", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "highpointers", 
    "howard", 
@@ -154,11 +122,7 @@
  }, 
  {
   "docName": "TerroristActivity 12", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "singapore", 
    "sesdaq", 
@@ -169,11 +133,7 @@
  }, 
  {
   "docName": "TerroristActivity 13", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "coalition", 
    "party", 
@@ -184,11 +144,7 @@
  }, 
  {
   "docName": "TerroristActivity 14", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "argentina", 
    "america", 
@@ -199,11 +155,7 @@
  }, 
  {
   "docName": "TerroristActivity 15", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "inventories", 
    "quarter", 
@@ -214,11 +166,7 @@
  }, 
  {
   "docName": "TerroristActivity 16", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "allena", 
    "prisoners", 
@@ -229,11 +177,7 @@
  }, 
  {
   "docName": "TerroristActivity 17", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "honda", 
    "dealer", 
@@ -244,11 +188,7 @@
  }, 
  {
   "docName": "TerroristActivity 18", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "bonds", 
    "traders", 
@@ -259,11 +199,7 @@
  }, 
  {
   "docName": "TerroristActivity 19", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "repurchase", 
    "drugs", 
@@ -274,11 +210,7 @@
  }, 
  {
   "docName": "TerroristActivity 20", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "toronto", 
    "tse", 
@@ -289,7 +221,7 @@
  }, 
  {
   "docName": "TerroristActivity 21", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "wild", 
    "card", 
@@ -311,11 +243,7 @@
  }, 
  {
   "docName": "TerroristActivity 23", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "airbus", 
    "boeing", 
@@ -326,11 +254,7 @@
  }, 
  {
   "docName": "TerroristActivity 24", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "sumitomo", 
    "wyman", 
@@ -341,11 +265,7 @@
  }, 
  {
   "docName": "TerroristActivity 25", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "airlines", 
    "airport", 
@@ -356,11 +276,7 @@
  }, 
  {
   "docName": "TerroristActivity 26", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "booth", 
    "derryberry", 
@@ -371,11 +287,7 @@
  }, 
  {
   "docName": "TerroristActivity 27", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "simmon", 
    "sutphin", 
@@ -386,11 +298,7 @@
  }, 
  {
   "docName": "TerroristActivity 28", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "funds", 
    "illiquid", 
@@ -401,11 +309,7 @@
  }, 
  {
   "docName": "TerroristActivity 29", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "eds", 
    "debt", 
@@ -416,7 +320,7 @@
  }, 
  {
   "docName": "TerroristActivity 30", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "ncr", 
    "terminating", 
@@ -438,11 +342,7 @@
  }, 
  {
   "docName": "TerroristActivity 32", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "intel", 
    "microprocessors", 
@@ -453,11 +353,7 @@
  }, 
  {
   "docName": "TerroristActivity 33", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "guilders", 
    "unilever", 
@@ -468,11 +364,7 @@
  }, 
  {
   "docName": "TerroristActivity 34", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "session", 
    "stock", 
@@ -483,11 +375,7 @@
  }, 
  {
   "docName": "TerroristActivity 35", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "lambert", 
    "warner", 
@@ -498,11 +386,7 @@
  }, 
  {
   "docName": "TerroristActivity 36", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "pill", 
    "contraceptives", 
@@ -513,11 +397,7 @@
  }, 
  {
   "docName": "TerroristActivity 37", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "rupiah", 
    "telekomunikasi", 
@@ -528,11 +408,7 @@
  }, 
  {
   "docName": "TerroristActivity 38", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "player", 
    "team", 
@@ -543,11 +419,7 @@
  }, 
  {
   "docName": "TerroristActivity 39", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "rexene", 
    "chemical", 
@@ -558,11 +430,7 @@
  }, 
  {
   "docName": "TerroristActivity 40", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "brokers", 
    "nasd", 
@@ -573,7 +441,7 @@
  }, 
  {
   "docName": "TerroristActivity 41", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "lobbyists", 
    "tobacco", 
@@ -584,11 +452,7 @@
  }, 
  {
   "docName": "TerroristActivity 42", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "lloyd", 
    "insurer", 
@@ -599,11 +463,7 @@
  }, 
  {
   "docName": "TerroristActivity 43", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "apache", 
    "helicopter", 
@@ -614,7 +474,7 @@
  }, 
  {
   "docName": "TerroristActivity 44", 
-  "classNum": 2, 
+  "classNum": 1, 
   "events": [
    "warner", 
    "line", 
@@ -625,11 +485,7 @@
  }, 
  {
   "docName": "TerroristActivity 45", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "amalgam", 
    "mercury", 
@@ -640,11 +496,7 @@
  }, 
  {
   "docName": "TerroristActivity 46", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "assessor", 
    "county", 
@@ -655,7 +507,7 @@
  }, 
  {
   "docName": "TerroristActivity 47", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "caesar", 
    "bruno", 
@@ -666,11 +518,7 @@
  }, 
  {
   "docName": "TerroristActivity 48", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "morgan", 
    "virginia", 
@@ -681,11 +529,7 @@
  }, 
  {
   "docName": "TerroristActivity 49", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "airport", 
    "airlines", 
@@ -696,11 +540,7 @@
  }, 
  {
   "docName": "TerroristActivity 50", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "radioactive", 
    "bomb", 
@@ -711,11 +551,7 @@
  }, 
  {
   "docName": "TerroristActivity 51", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "apprehending", 
    "devices", 
@@ -726,11 +562,7 @@
  }, 
  {
   "docName": "TerroristActivity 52", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "booking", 
    "bilyeu", 
@@ -741,11 +573,7 @@
  }, 
  {
   "docName": "TerroristActivity 53", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "seaton", 
    "shot", 
@@ -756,11 +584,7 @@
  }, 
  {
   "docName": "TerroristActivity 54", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "dax", 
    "german", 
@@ -771,11 +595,7 @@
  }, 
  {
   "docName": "TerroristActivity 55", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "tax", 
    "rate", 
@@ -786,11 +606,7 @@
  }, 
  {
   "docName": "TerroristActivity 56", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "pesos", 
    "treasury", 
@@ -801,7 +617,7 @@
  }, 
  {
   "docName": "TerroristActivity 57", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "bomb", 
    "airport", 
@@ -812,11 +628,7 @@
  }, 
  {
   "docName": "TerroristActivity 58", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kong", 
    "hong", 
@@ -827,7 +639,7 @@
  }, 
  {
   "docName": "TerroristActivity 59", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "shubert", 
    "doster", 
@@ -838,7 +650,7 @@
  }, 
  {
   "docName": "TerroristActivity 60", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "taiwan", 
    "china", 
@@ -849,11 +661,7 @@
  }, 
  {
   "docName": "TerroristActivity 61", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "valujet", 
    "faa", 
@@ -864,11 +672,7 @@
  }, 
  {
   "docName": "TerroristActivity 62", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "wheat", 
    "cents", 
@@ -879,7 +683,7 @@
  }, 
  {
   "docName": "TerroristActivity 63", 
-  "classNum": 4, 
+  "classNum": 1, 
   "events": [
    "peru", 
    "hallmark", 
@@ -890,11 +694,7 @@
  }, 
  {
   "docName": "TerroristActivity 64", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "ltd", 
    "singapore", 
@@ -905,11 +705,7 @@
  }, 
  {
   "docName": "TerroristActivity 65", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "valujet", 
    "planes", 
@@ -920,11 +716,7 @@
  }, 
  {
   "docName": "TerroristActivity 66", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "arrest", 
    "traffic", 
@@ -935,11 +727,7 @@
  }, 
  {
   "docName": "TerroristActivity 67", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "lloyd", 
    "equitas", 
@@ -950,7 +738,7 @@
  }, 
  {
   "docName": "TerroristActivity 68", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "sony", 
    "pictures", 
@@ -961,7 +749,7 @@
  }, 
  {
   "docName": "TerroristActivity 69", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "taipei", 
    "jeffery", 
@@ -972,11 +760,7 @@
  }, 
  {
   "docName": "TerroristActivity 70", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "fidelity", 
    "insurer", 
@@ -987,11 +771,7 @@
  }, 
  {
   "docName": "TerroristActivity 71", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "silver", 
    "unabomber", 
@@ -1002,11 +782,7 @@
  }, 
  {
   "docName": "TerroristActivity 72", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "inning", 
    "brewers", 
@@ -1017,11 +793,7 @@
  }, 
  {
   "docName": "TerroristActivity 73", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "sydney", 
    "equities", 
@@ -1032,11 +804,7 @@
  }, 
  {
   "docName": "TerroristActivity 74", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "deductible", 
    "accounts", 
@@ -1047,11 +815,7 @@
  }, 
  {
   "docName": "TerroristActivity 75", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "terrorist", 
    "threats", 
@@ -1062,7 +826,7 @@
  }, 
  {
   "docName": "TerroristActivity 76", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "pmc", 
    "portland", 
@@ -1073,7 +837,7 @@
  }, 
  {
   "docName": "TerroristActivity 77", 
-  "classNum": 1, 
+  "classNum": 3, 
   "events": [
    "tractor", 
    "deere", 
@@ -1084,11 +848,7 @@
  }, 
  {
   "docName": "TerroristActivity 78", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "plant", 
    "connecticut", 
@@ -1110,11 +870,7 @@
  }, 
  {
   "docName": "TerroristActivity 80", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "beirut", 
    "embassies", 
@@ -1125,11 +881,7 @@
  }, 
  {
   "docName": "TerroristActivity 81", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "funds", 
    "fee", 
@@ -1140,11 +892,7 @@
  }, 
  {
   "docName": "TerroristActivity 82", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "luxembourg", 
    "liquids", 
@@ -1155,11 +903,7 @@
  }, 
  {
   "docName": "TerroristActivity 83", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "download", 
    "navigator", 
@@ -1170,11 +914,7 @@
  }, 
  {
   "docName": "TerroristActivity 84", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "pesetas", 
    "mapfre", 
@@ -1185,11 +925,7 @@
  }, 
  {
   "docName": "TerroristActivity 85", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kozlowski", 
    "assassinate", 
@@ -1200,11 +936,7 @@
  }, 
  {
   "docName": "TerroristActivity 86", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "electric", 
    "saudi", 
@@ -1226,7 +958,7 @@
  }, 
  {
   "docName": "TerroristActivity 88", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "ringgit", 
    "index", 
@@ -1237,11 +969,7 @@
  }, 
  {
   "docName": "TerroristActivity 89", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "lloyd", 
    "berry", 
@@ -1252,11 +980,7 @@
  }, 
  {
   "docName": "TerroristActivity 90", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "bomb", 
    "missiles", 
@@ -1267,11 +991,7 @@
  }, 
  {
   "docName": "TerroristActivity 91", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "fidelity", 
    "models", 
@@ -1282,11 +1002,7 @@
  }, 
  {
   "docName": "TerroristActivity 92", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "comedy", 
    "comedians", 
@@ -1297,11 +1013,7 @@
  }, 
  {
   "docName": "TerroristActivity 93", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "fasb", 
    "pool", 
@@ -1312,7 +1024,7 @@
  }, 
  {
   "docName": "TerroristActivity 94", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "plastic", 
    "taiwan", 
@@ -1323,11 +1035,7 @@
  }, 
  {
   "docName": "TerroristActivity 95", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "chemical", 
    "explosives", 
@@ -1338,11 +1046,7 @@
  }, 
  {
   "docName": "TerroristActivity 96", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "pain", 
    "patients", 
@@ -1353,11 +1057,7 @@
  }, 
  {
   "docName": "TerroristActivity 97", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "bougainville", 
    "mine", 
@@ -1368,11 +1068,7 @@
  }, 
  {
   "docName": "TerroristActivity 98", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "fed", 
    "economy", 
@@ -1383,11 +1079,7 @@
  }, 
  {
   "docName": "TerroristActivity 99", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "eldred", 
    "bomb", 
@@ -1398,7 +1090,7 @@
  }, 
  {
   "docName": "TerroristActivity 100", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "gaylord", 
    "collin", 
@@ -1409,11 +1101,7 @@
  }, 
  {
   "docName": "TerroristActivity 101", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "bonds", 
    "bangkok", 
@@ -1424,11 +1112,7 @@
  }, 
  {
   "docName": "TerroristActivity 102", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "kyrgyzstan", 
    "soukup", 
@@ -1439,11 +1123,7 @@
  }, 
  {
   "docName": "TerroristActivity 103", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "real", 
    "thousands", 
@@ -1454,7 +1134,7 @@
  }, 
  {
   "docName": "TerroristActivity 104", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "cents", 
    "seng", 
@@ -1465,7 +1145,7 @@
  }, 
  {
   "docName": "TerroristActivity 105", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "students", 
    "police", 
@@ -1476,11 +1156,7 @@
  }, 
  {
   "docName": "TerroristActivity 106", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "gambling", 
    "subpoena", 
@@ -1491,7 +1167,7 @@
  }, 
  {
   "docName": "TerroristActivity 107", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "bankruptcy", 
    "credit", 
@@ -1502,11 +1178,7 @@
  }, 
  {
   "docName": "TerroristActivity 108", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "mittelfest", 
    "theater", 
@@ -1517,11 +1189,7 @@
  }, 
  {
   "docName": "TerroristActivity 109", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "cds", 
    "yield", 
@@ -1532,11 +1200,7 @@
  }, 
  {
   "docName": "TerroristActivity 110", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "chateau", 
    "roc", 
@@ -1547,7 +1211,7 @@
  }, 
  {
   "docName": "TerroristActivity 111", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "apprehending", 
    "suspect", 
@@ -1558,11 +1222,7 @@
  }, 
  {
   "docName": "TerroristActivity 112", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "sale", 
    "remy", 
@@ -1573,7 +1233,7 @@
  }, 
  {
   "docName": "TerroristActivity 113", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "peter", 
    "mose", 
@@ -1584,11 +1244,7 @@
  }, 
  {
   "docName": "TerroristActivity 114", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "healthcare", 
    "aetna", 
@@ -1599,11 +1255,7 @@
  }, 
  {
   "docName": "TerroristActivity 115", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "ioc", 
    "atlanta", 
@@ -1614,11 +1266,7 @@
  }, 
  {
   "docName": "TerroristActivity 116", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "lilly", 
    "johnson", 
@@ -1629,11 +1277,7 @@
  }, 
  {
   "docName": "TerroristActivity 117", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "dax", 
    "ibis", 
@@ -1644,11 +1288,7 @@
  }, 
  {
   "docName": "TerroristActivity 118", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "wreckage", 
    "piece", 
@@ -1659,11 +1299,7 @@
  }, 
  {
   "docName": "TerroristActivity 119", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "trespassing", 
    "livestock", 
@@ -1674,11 +1310,7 @@
  }, 
  {
   "docName": "TerroristActivity 120", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "drams", 
    "acer", 
@@ -1689,7 +1321,7 @@
  }, 
  {
   "docName": "TerroristActivity 121", 
-  "classNum": 4, 
+  "classNum": 1, 
   "events": [
    "freeze", 
    "theory", 
@@ -1700,11 +1332,7 @@
  }, 
  {
   "docName": "TerroristActivity 122", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "phillies", 
    "chamberlain", 
@@ -1715,11 +1343,7 @@
  }, 
  {
   "docName": "TerroristActivity 123", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "threats", 
    "lark", 
@@ -1741,11 +1365,7 @@
  }, 
  {
   "docName": "TerroristActivity 125", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "salcido", 
    "allena", 
@@ -1756,11 +1376,7 @@
  }, 
  {
   "docName": "TerroristActivity 126", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "france", 
    "alsthom", 
@@ -1771,11 +1387,7 @@
  }, 
  {
   "docName": "TerroristActivity 127", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "missiles", 
    "derryberry", 
@@ -1786,11 +1398,7 @@
  }, 
  {
   "docName": "TerroristActivity 128", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "arabia", 
    "saudi", 
@@ -1801,7 +1409,7 @@
  }, 
  {
   "docName": "TerroristActivity 129", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "cents", 
    "seng", 
@@ -1812,11 +1420,7 @@
  }, 
  {
   "docName": "TerroristActivity 130", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "real", 
    "thousands", 
@@ -1827,7 +1431,7 @@
  }, 
  {
   "docName": "TerroristActivity 131", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "cents", 
    "seng", 
@@ -1838,7 +1442,7 @@
  }, 
  {
   "docName": "TerroristActivity 132", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "students", 
    "police", 
@@ -1849,11 +1453,7 @@
  }, 
  {
   "docName": "TerroristActivity 133", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "marks", 
    "german", 
@@ -1864,7 +1464,7 @@
  }, 
  {
   "docName": "TerroristActivity 134", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "derryberry", 
    "sen", 
@@ -1875,7 +1475,7 @@
  }, 
  {
   "docName": "TerroristActivity 135", 
-  "classNum": 4, 
+  "classNum": 2, 
   "events": [
    "gunning", 
    "arthur", 
@@ -1886,11 +1486,7 @@
  }, 
  {
   "docName": "TerroristActivity 136", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "characters", 
    "editor", 
@@ -1901,11 +1497,7 @@
  }, 
  {
   "docName": "TerroristActivity 137", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "oilers", 
    "georgeanna", 
@@ -1916,11 +1508,7 @@
  }, 
  {
   "docName": "TerroristActivity 138", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "lloyd", 
    "reinsurance", 
@@ -1931,11 +1519,7 @@
  }, 
  {
   "docName": "TerroristActivity 139", 
-<<<<<<< HEAD
   "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "saudi", 
    "militants", 
@@ -1946,11 +1530,7 @@
  }, 
  {
   "docName": "TerroristActivity 140", 
-<<<<<<< HEAD
   "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "guilders", 
    "dutch", 
@@ -1961,11 +1541,7 @@
  }, 
  {
   "docName": "TerroristActivity 141", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "pesos", 
    "subindex", 
@@ -1987,7 +1563,7 @@
  }, 
  {
   "docName": "TerroristActivity 143", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "devaluation", 
    "ltd", 
@@ -1998,7 +1574,7 @@
  }, 
  {
   "docName": "TerroristActivity 144", 
-  "classNum": 3, 
+  "classNum": 1, 
   "events": [
    "circus", 
    "bonds", 
@@ -2009,11 +1585,7 @@
  }, 
  {
   "docName": "TerroristActivity 145", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "seed", 
    "semifinals", 
@@ -2024,11 +1596,7 @@
  }, 
  {
   "docName": "TerroristActivity 146", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "atlanta", 
    "game", 
@@ -2039,11 +1607,7 @@
  }, 
  {
   "docName": "TerroristActivity 147", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "turkey", 
    "airport", 
@@ -2054,11 +1618,7 @@
  }, 
  {
   "docName": "TerroristActivity 148", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "israel", 
    "coca", 
@@ -2069,11 +1629,7 @@
  }, 
  {
   "docName": "TerroristActivity 149", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "nationsbank", 
    "boatmen", 
@@ -2084,11 +1640,7 @@
  }, 
  {
   "docName": "TerroristActivity 150", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "ferreira", 
    "dolphins", 
@@ -2099,11 +1651,7 @@
  }, 
  {
   "docName": "TerroristActivity 151", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "adm", 
    "lysine", 
@@ -2114,11 +1662,7 @@
  }, 
  {
   "docName": "TerroristActivity 152", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "casino", 
    "sun", 
@@ -2129,11 +1673,7 @@
  }, 
  {
   "docName": "TerroristActivity 153", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "abortion", 
    "democrats", 
@@ -2166,7 +1706,7 @@
  }, 
  {
   "docName": "TerroristActivity 156", 
-  "classNum": 1, 
+  "classNum": 4, 
   "events": [
    "bosnian", 
    "serb", 
@@ -2177,11 +1717,7 @@
  }, 
  {
   "docName": "TerroristActivity 157", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "game", 
    "ceremonies", 
@@ -2192,11 +1728,7 @@
  }, 
  {
   "docName": "TerroristActivity 158", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "emails", 
    "located", 
@@ -2207,11 +1739,7 @@
  }, 
  {
   "docName": "TerroristActivity 159", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "radioactive", 
    "bomb", 

@@ -68,43 +68,6 @@ def is_int(s):
     except ValueError:			
         return False	
 
-def TF_IDF_Topic_Vectors(corp):
-		
-
-    # Create a set of frequent words
-    stoplist = set('for a of the and to in'.split(' '))
-    # Lowercase each document, split it by white space and filter out stopwords
-    texts = [[word for word in document.lower().split() if word not in stoplist]
-        for document in corp]
-
-    # Count word frequencies
-    
-#	from collections import defaultdict
-    frequency = defaultdict(int)
-    for text in texts:
-        for token in text:
-            frequency[token] += 1
-			
-    # Only keep words that appear more than once
-    processed_corpus = [[token for token in text if frequency[token] > 1] for text in texts]
-    #print processed_corpus			
-    
-    dictionary = corpora.Dictionary(processed_corpus)
-	
-    bow_corpus = [dictionary.doc2bow(text) for text in processed_corpus]
-    #print bow_corpus
-	
-    from gensim import models
-    # train the model
-    tfidf = models.TfidfModel(bow_corpus)
-    # transform the "system minors" sting
-    #print "\n", tfidf[dictionary.doc2bow("system Human me".lower().split())]	
-    
-    print "\n"
-    all_vectors = tfidf[bow_corpus]   # Gives representative vectors 
-    #for doc in all_vectors: 
-    #    print(doc)
-    return 0 
 
 def LDA_Topic(Int_type, de_stemmer, corp,Text_lda1, my_dictionary,Text_tfidf):  
     # Defines LDA topic number for search terms/notes/highlights/etc/etc.
@@ -312,16 +275,16 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
     
     # ------------------- 5 LDA Model and -------------------    
     
-    if os.path.isfile("D:/TopicModeling/LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" +str(class_num)+".lda") ==0 or (new_model == 1):  # Do you want to train the model?
+    if os.path.isfile("./LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" +str(class_num)+".lda") ==0 or (new_model == 1):  # Do you want to train the model?
         print "\n LDA Model Training..."   
         # 1- all_vectors is a weighted doc vectors passed through tfidf model
         #Text_lda = models.LdaModel(all_vectors, id2word=my_dictionary, num_topics= class_num, passes = LDA_passes)		# with the TF-IDF model
         # 2- new_corp is a weighted doc vectors
         Text_lda = models.LdaModel(new_corp, id2word=my_dictionary, num_topics= class_num, passes = LDA_passes)		#  with out TF-IDF model
-        Text_lda.save("D:/TopicModeling/LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" + str(class_num) + ".lda") # same for tfidf, lsa, ...
+        Text_lda.save("./LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" + str(class_num) + ".lda") # same for tfidf, lsa, ...
     else:		
         print "\n LDA Model Loading..."
-        Text_lda = models.LdaModel.load("D:/TopicModeling/LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" +str(class_num)+".lda")			
+        Text_lda = models.LdaModel.load("./LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" +str(class_num)+".lda")			
         
     # ------------------- 6 Document Vectors and Classification -------------------    
 
@@ -353,11 +316,7 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
     for each in range(0, class_num + 1):
         topicWordTags.append(set())
         topicWordTags2.append([])
-<<<<<<< HEAD
-        topicWordTags3.append([])
-=======
         topicWordTags3.append([])  #set())
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
         finalBag.append('')
     # print "\n Topic word empty: ", topicWordTags    
 
@@ -565,11 +524,8 @@ def save_topic_docs(EntList, my_dictionary1, docs_number, ids2words, doc_vectors
                         # print "score", float(new_list[i][1]), accu, score
                         # if score > 0.01:
                         topicWordTags2[j].append([str(term), group,score])   # Add this to the bag of words  
-<<<<<<< HEAD
-           # print "\n Final Entites: ", len(new_list), topicWordTags2[j]
-=======
+
             print "\n Final Entites: ", len(new_list), topicWordTags2[j]
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
             
         # ----------------------- Process word tags from document vectors  (to complete 10 minimum tags for each topic)
         for j in range(1,len(doc_topic_keywords)):    # Each topic
@@ -1024,62 +980,61 @@ keyword_num = 5       # Number of keyword assigned to each document
 magic_number = 20     # How much reading time interaction should effect document vectors (was 40)
 magic_number_2 = 10   # How much Doc_open time intetaction should effect ProvThread steps  (was 40)
 new_model = 0         # 1 = Yes / 0 = No
-LDA_passes = 50 
+LDA_passes = 10 
 EntList = 1; # Generate Entities list  
 
-saveContext()
-
-# main()
-
+# saveContext()
+# restoreContext()
 
 for class_num in xrange(3,11):   #(1,11):
 
-    for save_x in xrange(1,4):        #(1,4):
+    for dataset_num in xrange(1,4):        #(1,4):
         
-        restoreContext()
-        
-        if save_x == 1:
+        if dataset_num == 1:
             splitby = "g"
             dataset = "Arms"	
             name = "Armsdealing"		
-        if save_x == 2:
+        if dataset_num == 2:
             splitby = "y"
             dataset = "Terrorist"
             name = "TerroristActivity"				
-        if save_x == 3:
+        if dataset_num == 3:
             splitby = "ce"		
             dataset = "Disappearance"
             name = "Disappearance"				
 		
-        for save_y in xrange(1,9):  #(1,9):
-            print "\n \n Dataset number:", save_x , "P Nuumber: ", save_y, "Class_Num: ", class_num	
-            # Read docs and interaction files, process interactions and apply each doc
-            data_set_docs, docs_number = Read_dataset("D:/TopicModeling/documents_"+str(save_x)+".json")
-            all_interactions, highlight_plus,reading_time,search_terms,note_terms = Read_user_interactions("d:/datasets/NewIDs/Dataset_"+str(save_x)+"/UserInteractions/"+str(dataset)+"_P"+str(save_y)+"_InteractionsLogs.json",docs_number) 
+        for participant_num in xrange(1,9):  #(1,9):
+            print "\n \n Dataset number:", dataset_num , "P Nuumber: ", participant_num, "Class_Num: ", class_num	
+            
+            # Read documents and user interaction logs
+            interactionFile = "./Dataset_"+str(dataset_num)+"/UserInteractions/"+str(dataset)+"_P"+str(participant_num)+"_InteractionsLogs.json";
+            datasetFile = "./Dataset_"+str(dataset_num)+"/Dataset/Documents_Dataset_"+str(dataset_num)+".json"
+            data_set_docs, docs_number = Read_dataset(datasetFile)
+            all_interactions, highlight_plus,reading_time,search_terms,note_terms = Read_user_interactions(interactionFile,docs_number) 
+            
+            # document vectors
             document_plus, reading_weight = documents_interaction(magic_number, data_set_docs, highlight_plus,search_terms,note_terms,docs_number, reading_time)    
 
             # Run LDA, save results for each document
-            xx = save_x
-            yy = save_y  
-            finalBag, topicWordTags,topicWordTags2,topicWordTags3,de_stemmer, ids2words_, doc_vectors_, Text_lda_, my_dictionary,Text_tfidf, output_topics_, de_stemmer_, doc_topics_ = LDA_Topic_Clustering(document_plus,reading_weight, new_model ,class_num , LDA_passes,xx, yy)
+            finalBag, topicWordTags,topicWordTags2,topicWordTags3,de_stemmer, ids2words_, doc_vectors_, Text_lda_, my_dictionary,Text_tfidf, output_topics_, de_stemmer_, doc_topics_ = LDA_Topic_Clustering(document_plus,reading_weight, new_model ,class_num , LDA_passes,dataset_num, participant_num)
 
             # Extract and save document keywords
-            docTopicsFile = "D:/TopicModeling/TopicDocs/" +str(dataset) + "_P" + str(save_y) + "_ClassNum" + str(class_num) + ".json"
-            ldaTopicsFile = "D:/datasets/NewIDs/Dataset_" +str(save_x)+ "/LDATopics/" + str(dataset) + "_P" + str(save_y) + "_ClassNum" + str(class_num) + ".json"
-            entityListFile = "D:/datasets/NewIDs/Dataset_" +str(save_x)+ "/EntitiesList/" + str(dataset) + "_P" + str(save_y) + "_ClassNum" + str(class_num) + ".json"
-            doc_topic_array_, doc_key_word_ = save_topic_docs(0,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)#"D:/TopicModeling/CompareTopics/" +str(dataset) + "_P" + str(save_y) + "_ClassNum" + str(class_num) + "_compare_" + str(magic_number) + ".json")
+            docTopicsFile = "./TopicDocs/" +str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            ldaTopicsFile = "./Dataset_" +str(dataset_num)+ "/LDATopics/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            entityListFile = "./Dataset_" +str(dataset_num)+ "/EntitiesList/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            doc_topic_array_, doc_key_word_ = save_topic_docs(0,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
  
             # calculate, sort and save topic threads
-            threads = topic_threads(Text_lda_, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby)  # , reading_weight
+            threads = topic_threads(Text_lda_, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby) 
             threads = sorted(threads, key=lambda k: k['Time'])
-            save_threads(threads, "d:/datasets/NewIDs/Dataset_" + str(save_x) + "/ProvThreads/" + str(dataset) +"_P" + str(save_y) + "_topicThread_"+ str(class_num)+ ".json" ) #Dataset_"+str(save_x)+"/UserInteractions/"+str(dataset)+"_P"+str(save_y)+"_InteractionsLogs.json") # "Disappearance_P6_topicThread.json")
+            save_threads(threads, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicThread_"+ str(class_num)+ ".json" )
     
             # calculate, sort and save interests threads
-            interests = topic_interests(Text_lda_,class_num, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby)  # , reading_weight
+            interests = topic_interests(Text_lda_,class_num, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby)
             interests = sorted(interests, key=lambda k: k['Time'])
-            save_threads(interests, "d:/datasets/NewIDs/Dataset_" + str(save_x) + "/ProvThreads/" + str(dataset) +"_P" + str(save_y) + "_topicInterest_" + str(class_num)+ ".json" )
+            save_threads(interests, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicInterest_" + str(class_num)+ ".json" )
 
-            doc_topic_array_, doc_key_word_ = save_topic_docs(1,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)#"D:/TopicModeling/CompareTopics/" +str(dataset) + "_P" + str(save_y) + "_ClassNum" + str(class_num) + "_compare_" + str(magic_number) + ".json")
+            doc_topic_array_, doc_key_word_ = save_topic_docs(1,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
 
             print "total time: ", datetime.now() - lastTime
             lastTime = datetime.now()
@@ -1088,20 +1043,6 @@ for class_num in xrange(3,11):   #(1,11):
 print "\n"
 print "total time: ", datetime.now() - startTime
 print "End"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

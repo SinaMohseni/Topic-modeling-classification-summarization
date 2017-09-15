@@ -1,11 +1,7 @@
 [
  {
   "docName": "Armsdealing 1", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "tabriz", 
    "iran", 
@@ -16,11 +12,7 @@
  }, 
  {
   "docName": "Armsdealing 2", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "tabnapkkackh", 
    "bukhari", 
@@ -31,11 +23,7 @@
  }, 
  {
   "docName": "Armsdealing 3", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 6, 
   "events": [
    "june", 
    "english", 
@@ -46,7 +34,7 @@
  }, 
  {
   "docName": "Armsdealing 4", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "khouri", 
    "kasam", 
@@ -57,11 +45,7 @@
  }, 
  {
   "docName": "Armsdealing 5", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "caller", 
    "venezuela", 
@@ -72,11 +56,7 @@
  }, 
  {
   "docName": "Armsdealing 6", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "caller", 
    "something", 
@@ -87,11 +67,7 @@
  }, 
  {
   "docName": "Armsdealing 7", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "venezuela", 
    "caller", 
@@ -102,7 +78,7 @@
  }, 
  {
   "docName": "Armsdealing 8", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "khouri", 
    "kasem", 
@@ -113,11 +89,7 @@
  }, 
  {
   "docName": "Armsdealing 9", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "caller", 
    "venezuela", 
@@ -128,11 +100,7 @@
  }, 
  {
   "docName": "Armsdealing 10", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "textbook", 
    "brother", 
@@ -143,11 +111,7 @@
  }, 
  {
   "docName": "Armsdealing 11", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "tabriz", 
    "caller", 
@@ -158,11 +122,7 @@
  }, 
  {
   "docName": "Armsdealing 12", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "bukhari", 
    "tebilaead", 
@@ -173,11 +133,7 @@
  }, 
  {
   "docName": "Armsdealing 13", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "identification", 
    "transaction", 
@@ -188,11 +144,7 @@
  }, 
  {
   "docName": "Armsdealing 14", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "tmosweumm", 
    "identification", 
@@ -203,11 +155,7 @@
  }, 
  {
   "docName": "Armsdealing 15", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "soon", 
    "equipment", 
@@ -218,11 +166,7 @@
  }, 
  {
   "docName": "Armsdealing 16", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "ready", 
    "turkey", 
@@ -233,11 +177,7 @@
  }, 
  {
   "docName": "Armsdealing 17", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "textbook", 
    "syria", 
@@ -248,11 +188,7 @@
  }, 
  {
   "docName": "Armsdealing 18", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "notified", 
    "gunter", 
@@ -263,7 +199,7 @@
  }, 
  {
   "docName": "Armsdealing 19", 
-  "classNum": 3, 
+  "classNum": 2, 
   "events": [
    "hakan", 
    "turkey", 
@@ -274,11 +210,7 @@
  }, 
  {
   "docName": "Armsdealing 20", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "arabian", 
    "monetary", 
@@ -289,11 +221,7 @@
  }, 
  {
   "docName": "Armsdealing 21", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "basel", 
    "mosweumm", 
@@ -304,11 +232,7 @@
  }, 
  {
   "docName": "Armsdealing 22", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "syria", 
    "mobile", 
@@ -319,11 +243,7 @@
  }, 
  {
   "docName": "Armsdealing 23", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 5, 
   "events": [
    "tyes", 
    "ninety", 
@@ -334,11 +254,7 @@
  }, 
  {
   "docName": "Armsdealing 24", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
-  "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "speaker", 
    "required", 
@@ -349,11 +265,7 @@
  }, 
  {
   "docName": "Armsdealing 25", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "travel", 
    "baltasar", 
@@ -364,11 +276,7 @@
  }, 
  {
   "docName": "Armsdealing 26", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "dubai", 
    "exhibition", 
@@ -379,11 +287,7 @@
  }, 
  {
   "docName": "Armsdealing 27", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "brother", 
    "families", 
@@ -394,11 +298,7 @@
  }, 
  {
   "docName": "Armsdealing 28", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "kasem", 
    "anka", 
@@ -409,11 +309,7 @@
  }, 
  {
   "docName": "Armsdealing 29", 
-<<<<<<< HEAD
-  "classNum": 6, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "burj", 
    "ahmed", 
@@ -424,11 +320,7 @@
  }, 
  {
   "docName": "Armsdealing 30", 
-<<<<<<< HEAD
-  "classNum": 6, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "difficulties", 
    "expected", 
@@ -439,11 +331,7 @@
  }, 
  {
   "docName": "Armsdealing 31", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "lahore", 
    "ali", 
@@ -454,11 +342,7 @@
  }, 
  {
   "docName": "Armsdealing 32", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "uae", 
    "flight", 
@@ -469,11 +353,7 @@
  }, 
  {
   "docName": "Armsdealing 33", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "taken", 
    "ilyushin", 
@@ -484,11 +364,7 @@
  }, 
  {
   "docName": "Armsdealing 34", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "bout", 
    "iran", 
@@ -499,11 +375,7 @@
  }, 
  {
   "docName": "Armsdealing 35", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "june", 
    "dsei", 
@@ -514,7 +386,7 @@
  }, 
  {
   "docName": "Armsdealing 36", 
-  "classNum": 4, 
+  "classNum": 6, 
   "events": [
    "basra", 
    "bakery", 
@@ -525,11 +397,7 @@
  }, 
  {
   "docName": "Armsdealing 37", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 6, 
   "events": [
    "khemkhaeng", 
    "boonmee", 
@@ -540,11 +408,7 @@
  }, 
  {
   "docName": "Armsdealing 38", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "jhangvi", 
    "blanks", 
@@ -555,7 +419,7 @@
  }, 
  {
   "docName": "Armsdealing 39", 
-  "classNum": 4, 
+  "classNum": 6, 
   "events": [
    "bhutani", 
    "men", 
@@ -566,11 +430,7 @@
  }, 
  {
   "docName": "Armsdealing 40", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "kuryakin", 
    "khemkhaengare", 
@@ -581,11 +441,7 @@
  }, 
  {
   "docName": "Armsdealing 41", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "apartment", 
    "subject", 
@@ -596,11 +452,7 @@
  }, 
  {
   "docName": "Armsdealing 42", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
   "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "military", 
    "landing", 
@@ -611,11 +463,7 @@
  }, 
  {
   "docName": "Armsdealing 43", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "bukhari", 
    "boxes", 
@@ -626,7 +474,7 @@
  }, 
  {
   "docName": "Armsdealing 44", 
-  "classNum": 1, 
+  "classNum": 2, 
   "events": [
    "tanya", 
    "based", 
@@ -637,11 +485,7 @@
  }, 
  {
   "docName": "Armsdealing 45", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kasem", 
    "foot", 
@@ -652,7 +496,7 @@
  }, 
  {
   "docName": "Armsdealing 46", 
-  "classNum": 1, 
+  "classNum": 3, 
   "events": [
    "somalian", 
    "somali", 
@@ -663,11 +507,7 @@
  }, 
  {
   "docName": "Armsdealing 47", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "captain", 
    "accident", 
@@ -689,11 +529,7 @@
  }, 
  {
   "docName": "Armsdealing 49", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "bukhari", 
    "basra", 
@@ -704,11 +540,7 @@
  }, 
  {
   "docName": "Armsdealing 50", 
-<<<<<<< HEAD
   "classNum": 7, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "sviatoslavich", 
    "residence", 
@@ -719,7 +551,7 @@
  }, 
  {
   "docName": "Armsdealing 51", 
-  "classNum": 5, 
+  "classNum": 2, 
   "events": [
    "giunter", 
    "russia", 
@@ -730,7 +562,7 @@
  }, 
  {
   "docName": "Armsdealing 52", 
-  "classNum": 4, 
+  "classNum": 6, 
   "events": [
    "basra", 
    "karachi", 
@@ -741,11 +573,7 @@
  }, 
  {
   "docName": "Armsdealing 53", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 6, 
   "events": [
    "medical", 
    "kashfi", 
@@ -756,11 +584,7 @@
  }, 
  {
   "docName": "Armsdealing 54", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 2, 
   "events": [
    "tlhe", 
    "card", 
@@ -771,11 +595,7 @@
  }, 
  {
   "docName": "Armsdealing 55", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
   "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "bukhari", 
    "basra", 
@@ -797,11 +617,7 @@
  }, 
  {
   "docName": "Armsdealing 57", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 6, 
   "events": [
    "kasem", 
    "mfj", 
@@ -812,11 +628,7 @@
  }, 
  {
   "docName": "Armsdealing 58", 
-<<<<<<< HEAD
-  "classNum": 1, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "terrorist", 
    "park", 
@@ -827,7 +639,7 @@
  }, 
  {
   "docName": "Armsdealing 59", 
-  "classNum": 5, 
+  "classNum": 7, 
   "events": [
    "spokesman", 
    "tons", 
@@ -838,11 +650,7 @@
  }, 
  {
   "docName": "Armsdealing 60", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 6, 
   "events": [
    "bangkok", 
    "staff", 
@@ -853,11 +661,7 @@
  }, 
  {
   "docName": "Armsdealing 61", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "flight", 
    "navigator", 
@@ -868,11 +672,7 @@
  }, 
  {
   "docName": "Armsdealing 62", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "raleigh", 
    "yemeni", 
@@ -883,11 +683,7 @@
  }, 
  {
   "docName": "Armsdealing 63", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "guns", 
    "ahmed", 
@@ -898,11 +694,7 @@
  }, 
  {
   "docName": "Armsdealing 64", 
-<<<<<<< HEAD
   "classNum": 7, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "korea", 
    "weapons", 
@@ -913,11 +705,7 @@
  }, 
  {
   "docName": "Armsdealing 65", 
-<<<<<<< HEAD
-  "classNum": 6, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "minsky", 
    "italian", 
@@ -928,11 +716,7 @@
  }, 
  {
   "docName": "Armsdealing 66", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 5, 
   "events": [
    "adoyo", 
    "storm", 
@@ -943,11 +727,7 @@
  }, 
  {
   "docName": "Armsdealing 67", 
-<<<<<<< HEAD
   "classNum": 7, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "nairobi", 
    "senior", 
@@ -958,11 +738,7 @@
  }, 
  {
   "docName": "Armsdealing 68", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "court", 
    "convicted", 
@@ -973,11 +749,7 @@
  }, 
  {
   "docName": "Armsdealing 69", 
-<<<<<<< HEAD
-  "classNum": 6, 
-=======
   "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "minsky", 
    "discovered", 
@@ -988,11 +760,7 @@
  }, 
  {
   "docName": "Armsdealing 70", 
-<<<<<<< HEAD
   "classNum": 1, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "nahid", 
    "born", 
@@ -1003,7 +771,7 @@
  }, 
  {
   "docName": "Armsdealing 71", 
-  "classNum": 5, 
+  "classNum": 7, 
   "events": [
    "imposed", 
    "korea", 
@@ -1014,11 +782,7 @@
  }, 
  {
   "docName": "Armsdealing 72", 
-<<<<<<< HEAD
-  "classNum": 6, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "minsky", 
    "italian", 
@@ -1029,11 +793,7 @@
  }, 
  {
   "docName": "Armsdealing 73", 
-<<<<<<< HEAD
   "classNum": 5, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "conflict", 
    "camps", 
@@ -1044,11 +804,7 @@
  }, 
  {
   "docName": "Armsdealing 74", 
-<<<<<<< HEAD
   "classNum": 7, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "omondi", 
    "issued", 
@@ -1059,7 +815,7 @@
  }, 
  {
   "docName": "Armsdealing 75", 
-  "classNum": 2, 
+  "classNum": 5, 
   "events": [
    "gone", 
    "armoury", 
@@ -1092,11 +848,7 @@
  }, 
  {
   "docName": "Armsdealing 78", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "bangkok", 
    "airport", 
@@ -1107,11 +859,7 @@
  }, 
  {
   "docName": "Armsdealing 79", 
-<<<<<<< HEAD
   "classNum": 5, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "kapolalum", 
    "funsho", 
@@ -1122,11 +870,7 @@
  }, 
  {
   "docName": "Armsdealing 80", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
-  "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "mikhail", 
    "tool", 
@@ -1137,11 +881,7 @@
  }, 
  {
   "docName": "Armsdealing 81", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "nigeria", 
    "contract", 
@@ -1152,7 +892,7 @@
  }, 
  {
   "docName": "Armsdealing 82", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "parts", 
    "jtomski", 
@@ -1163,7 +903,7 @@
  }, 
  {
   "docName": "Armsdealing 83", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "sending", 
    "condition", 
@@ -1174,11 +914,7 @@
  }, 
  {
   "docName": "Armsdealing 84", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "contract", 
    "stand", 
@@ -1189,11 +925,7 @@
  }, 
  {
   "docName": "Armsdealing 85", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
-  "classNum": 7, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 3, 
   "events": [
    "contract", 
    "nigeria", 
@@ -1204,11 +936,7 @@
  }, 
  {
   "docName": "Armsdealing 86", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 1, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "parts", 
    "exhaust", 
@@ -1219,11 +947,7 @@
  }, 
  {
   "docName": "Armsdealing 87", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "pontiac", 
    "classic", 
@@ -1234,11 +958,7 @@
  }, 
  {
   "docName": "Armsdealing 88", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "write", 
    "different", 
@@ -1249,11 +969,7 @@
  }, 
  {
   "docName": "Armsdealing 89", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "exchange", 
    "boarded", 
@@ -1264,11 +980,7 @@
  }, 
  {
   "docName": "Armsdealing 90", 
-<<<<<<< HEAD
   "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "meeting", 
    "sails", 
@@ -1279,7 +991,7 @@
  }, 
  {
   "docName": "Armsdealing 91", 
-  "classNum": 2, 
+  "classNum": 4, 
   "events": [
    "jtomski", 
    "jhon", 
@@ -1290,11 +1002,7 @@
  }, 
  {
   "docName": "Armsdealing 92", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "april", 
    "emerites", 
@@ -1305,7 +1013,7 @@
  }, 
  {
   "docName": "Armsdealing 93", 
-  "classNum": 3, 
+  "classNum": 4, 
   "events": [
    "savvytraveladvice", 
    "forum", 
@@ -1316,11 +1024,7 @@
  }, 
  {
   "docName": "Armsdealing 94", 
-<<<<<<< HEAD
-  "classNum": 2, 
-=======
-  "classNum": 3, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 4, 
   "events": [
    "emerites", 
    "afternoon", 
@@ -1331,11 +1035,7 @@
  }, 
  {
   "docName": "Armsdealing 95", 
-<<<<<<< HEAD
-  "classNum": 5, 
-=======
   "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "mikhail", 
    "sickness", 
@@ -1346,11 +1046,7 @@
  }, 
  {
   "docName": "Armsdealing 96", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "saudi", 
    "firearms", 
@@ -1372,11 +1068,7 @@
  }, 
  {
   "docName": "Armsdealing 98", 
-<<<<<<< HEAD
-  "classNum": 7, 
-=======
   "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "training", 
    "kenya", 
@@ -1387,11 +1079,7 @@
  }, 
  {
   "docName": "Armsdealing 99", 
-<<<<<<< HEAD
   "classNum": 5, 
-=======
-  "classNum": 2, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
   "events": [
    "fear", 
    "range", 
@@ -1402,11 +1090,7 @@
  }, 
  {
   "docName": "Armsdealing 100", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 6, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 5, 
   "events": [
    "lived", 
    "respects", 
@@ -1417,11 +1101,7 @@
  }, 
  {
   "docName": "Armsdealing 101", 
-<<<<<<< HEAD
-  "classNum": 4, 
-=======
-  "classNum": 5, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 1, 
   "events": [
    "pirates", 
    "tanya", 
@@ -1432,11 +1112,7 @@
  }, 
  {
   "docName": "Armsdealing 102", 
-<<<<<<< HEAD
-  "classNum": 3, 
-=======
-  "classNum": 4, 
->>>>>>> 4b057167dc5424bab5585911899cb49ac047416a
+  "classNum": 7, 
   "events": [
    "sudan", 
    "research", 

@@ -1,0 +1,5426 @@
+[
+ {
+  "DocNum": "Armsdealing 102", 
+  "tags": [
+   "pirates", 
+   "tanya", 
+   "destination", 
+   "ransom", 
+   "owner"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 24, 
+  "Duration": 458, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "illegal arms"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 634, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 33", 
+  "tags": [
+   "uae", 
+   "flight", 
+   "kiev", 
+   "plan", 
+   "airport"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 696, 
+  "Duration": 281, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 96", 
+  "tags": [
+   "mutual", 
+   "health", 
+   "mikhail", 
+   "issued", 
+   "success"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.9993576213636777, 
+  "Time": 1029, 
+  "Duration": 335, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 66", 
+  "tags": [
+   "minsky", 
+   "italian", 
+   "room", 
+   "found", 
+   "diamonds"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.6153069652197853, 
+  "Time": 1472, 
+  "Duration": 438, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 68", 
+  "tags": [
+   "nairobi", 
+   "senior", 
+   "otieno", 
+   "questioning", 
+   "connection"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.1899605395980544, 
+  "Time": 1978, 
+  "Duration": 229, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "disease"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2343, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "sick"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 2450, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 95", 
+  "tags": [
+   "emerites", 
+   "afternoon", 
+   "savvytraveladvice", 
+   "forum", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 2498, 
+  "Duration": 301, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 80", 
+  "tags": [
+   "kapolalum", 
+   "funsho", 
+   "engr", 
+   "operation", 
+   "assistant"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.11975773148573, 
+  "Time": 2963, 
+  "Duration": 227, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 52", 
+  "tags": [
+   "giunter", 
+   "legitimate", 
+   "precious", 
+   "carats", 
+   "stones"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2684225016059463, 
+  "Time": 3290, 
+  "Duration": 204, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "guns"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 3617, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 42", 
+  "tags": [
+   "apartment", 
+   "subject", 
+   "august", 
+   "caf", 
+   "mjf"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 3663, 
+  "Duration": 166, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 102", 
+  "tags": [
+   "pirates", 
+   "tanya", 
+   "destination", 
+   "ransom", 
+   "owner"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 3830, 
+  "Duration": 64, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing102,ArmsDealing42", 
+  "tags": [
+   "ArmsDealing102,ArmsDealing42"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 3947, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 98", 
+  "tags": [
+   "gashi", 
+   "operation", 
+   "sldf", 
+   "harassment", 
+   "regional"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.251904193814812, 
+  "Time": 4026, 
+  "Duration": 383, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing42,ArmsDealing98", 
+  "tags": [
+   "ArmsDealing42,ArmsDealing98"
+  ], 
+  "ClassNum": [
+   1, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 4491, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 62", 
+  "tags": [
+   "flight", 
+   "navigator", 
+   "drilling", 
+   "plotnitskaia", 
+   "open"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 4660, 
+  "Duration": 277, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 62", 
+  "tags": [
+   "flight", 
+   "navigator", 
+   "drilling", 
+   "plotnitskaia", 
+   "open"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 5053, 
+  "Duration": 42, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 97", 
+  "tags": [
+   "saudi", 
+   "arms", 
+   "firearms", 
+   "riyal", 
+   "fine"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.619436542167569, 
+  "Time": 5222, 
+  "Duration": 126, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing98,ArmsDealing97", 
+  "tags": [
+   "ArmsDealing98,ArmsDealing97"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 5390, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 100", 
+  "tags": [
+   "fear", 
+   "range", 
+   "shooting", 
+   "remainder", 
+   "retribution"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.27255207855373, 
+  "Time": 5547, 
+  "Duration": 187, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 62", 
+  "tags": [
+   "flight", 
+   "navigator", 
+   "drilling", 
+   "plotnitskaia", 
+   "open"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 5811, 
+  "Duration": 60, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 5", 
+  "tags": [
+   "khouri", 
+   "kasam", 
+   "decide", 
+   "money", 
+   "tnot"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.150041295769478, 
+  "Time": 5947, 
+  "Duration": 87, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "kenya"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 6282, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 74", 
+  "tags": [
+   "conflict", 
+   "camps", 
+   "yemen", 
+   "fighting", 
+   "shiite"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 6346, 
+  "Duration": 91, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 100", 
+  "tags": [
+   "fear", 
+   "range", 
+   "shooting", 
+   "remainder", 
+   "retribution"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.27255207855373, 
+  "Time": 6438, 
+  "Duration": 311, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing100,ArmsDealing74", 
+  "tags": [
+   "ArmsDealing100,ArmsDealing74"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 6750, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 6883, 
+  "Duration": 231, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 65", 
+  "tags": [
+   "korea", 
+   "weapons", 
+   "prosecutors", 
+   "plane", 
+   "north"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 7142, 
+  "Duration": 192, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 67", 
+  "tags": [
+   "arms", 
+   "adoyo", 
+   "storm", 
+   "battles", 
+   "forces"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.653849683399101, 
+  "Time": 7389, 
+  "Duration": 131, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing97,ArmsDealing67", 
+  "tags": [
+   "ArmsDealing97,ArmsDealing67"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 7565, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 30", 
+  "tags": [
+   "burj", 
+   "hotel", 
+   "dubai", 
+   "luxury", 
+   "signal"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1018628980453338, 
+  "Time": 7608, 
+  "Duration": 86, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 65", 
+  "tags": [
+   "korea", 
+   "weapons", 
+   "prosecutors", 
+   "plane", 
+   "north"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 7695, 
+  "Duration": 117, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 7818, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 72", 
+  "tags": [
+   "imposed", 
+   "korea", 
+   "rockets", 
+   "sales", 
+   "thailand"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.4707717720473528, 
+  "Time": 7983, 
+  "Duration": 95, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing30,ArmsDealing72", 
+  "tags": [
+   "ArmsDealing30,ArmsDealing72"
+  ], 
+  "ClassNum": [
+   1, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 8106, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 48", 
+  "tags": [
+   "captain", 
+   "accident", 
+   "deck", 
+   "mate", 
+   "victim"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 8319, 
+  "Duration": 160, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Nigeria"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 8588, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 24", 
+  "tags": [
+   "tyes", 
+   "ninety", 
+   "type", 
+   "cases", 
+   "tractors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 8658, 
+  "Duration": 606, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 85", 
+  "tags": [
+   "contract", 
+   "stand", 
+   "ptf", 
+   "company", 
+   "ngoki"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5230797467192803, 
+  "Time": 9300, 
+  "Duration": 229, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 84", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "sending", 
+   "condition", 
+   "many"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0770854363586304, 
+  "Time": 9543, 
+  "Duration": 134, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 81", 
+  "tags": [
+   "tool", 
+   "investment", 
+   "honor", 
+   "worker", 
+   "sure"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.287693860695604, 
+  "Time": 9685, 
+  "Duration": 269, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 79", 
+  "tags": [
+   "bangkok", 
+   "airport", 
+   "plane", 
+   "feb", 
+   "crew"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 9962, 
+  "Duration": 136, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 102", 
+  "tags": [
+   "pirates", 
+   "tanya", 
+   "destination", 
+   "ransom", 
+   "owner"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10452, 
+  "Duration": 236, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 42", 
+  "tags": [
+   "apartment", 
+   "subject", 
+   "august", 
+   "caf", 
+   "mjf"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 10701, 
+  "Duration": 101, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 98", 
+  "tags": [
+   "gashi", 
+   "operation", 
+   "sldf", 
+   "harassment", 
+   "regional"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.251904193814812, 
+  "Time": 10847, 
+  "Duration": 182, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 96", 
+  "tags": [
+   "mutual", 
+   "health", 
+   "mikhail", 
+   "issued", 
+   "success"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.9993576213636777, 
+  "Time": 11060, 
+  "Duration": 135, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 95", 
+  "tags": [
+   "emerites", 
+   "afternoon", 
+   "savvytraveladvice", 
+   "forum", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 11216, 
+  "Duration": 83, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Syria"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 11452, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 71", 
+  "tags": [
+   "born", 
+   "usa", 
+   "nahid", 
+   "thabiti", 
+   "narok"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.034413141231532, 
+  "Time": 11490, 
+  "Duration": 256, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 22", 
+  "tags": [
+   "basel", 
+   "mosweumm", 
+   "jordain", 
+   "bank", 
+   "private"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 11765, 
+  "Duration": 122, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 17", 
+  "tags": [
+   "money", 
+   "ready", 
+   "turkey", 
+   "thakan", 
+   "forget"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2202441038818024, 
+  "Time": 11898, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing22,ArmsDealing17", 
+  "tags": [
+   "ArmsDealing22,ArmsDealing17"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 12042, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 10", 
+  "tags": [
+   "caller", 
+   "green", 
+   "money", 
+   "bolivar", 
+   "sending"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5478572084059836, 
+  "Time": 12360, 
+  "Duration": 65, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing10,ArmsDealing17", 
+  "tags": [
+   "ArmsDealing10,ArmsDealing17"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 12426, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 10", 
+  "tags": [
+   "caller", 
+   "green", 
+   "money", 
+   "bolivar", 
+   "sending"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5478572084059836, 
+  "Time": 12491, 
+  "Duration": 28, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Lebanon"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 12715, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 28", 
+  "tags": [
+   "brother", 
+   "families", 
+   "farming", 
+   "truly", 
+   "caller"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 12768, 
+  "Duration": 136, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Pakistan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 12966, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 52", 
+  "tags": [
+   "giunter", 
+   "legitimate", 
+   "precious", 
+   "carats", 
+   "stones"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2684225016059463, 
+  "Time": 13006, 
+  "Duration": 133, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 49", 
+  "tags": [
+   "tanya", 
+   "hobyo", 
+   "dia", 
+   "fifth", 
+   "advanced"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.205102321739928, 
+  "Time": 13158, 
+  "Duration": 201, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 31", 
+  "tags": [
+   "difficulties", 
+   "expected", 
+   "kenya", 
+   "dubai", 
+   "jewels"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1114985775901625, 
+  "Time": 13360, 
+  "Duration": 176, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 54", 
+  "tags": [
+   "medical", 
+   "kashfi", 
+   "rana", 
+   "men", 
+   "ruby"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.114251628888685, 
+  "Time": 13547, 
+  "Duration": 145, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 31", 
+  "tags": [
+   "difficulties", 
+   "expected", 
+   "kenya", 
+   "dubai", 
+   "jewels"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1114985775901625, 
+  "Time": 13693, 
+  "Duration": 143, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing31,ArmsDealing54", 
+  "tags": [
+   "ArmsDealing31,ArmsDealing54"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 13837, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "ArmsDealing31,ArmsDealing79", 
+  "tags": [
+   "ArmsDealing31,ArmsDealing79"
+  ], 
+  "ClassNum": [
+   1, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 13886, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 79", 
+  "tags": [
+   "bangkok", 
+   "airport", 
+   "plane", 
+   "feb", 
+   "crew"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14215, 
+  "Duration": 97, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 79", 
+  "tags": [
+   "bangkok", 
+   "airport", 
+   "plane", 
+   "feb", 
+   "crew"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14401, 
+  "Duration": 50, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 55", 
+  "tags": [
+   "tlhe", 
+   "card", 
+   "identity", 
+   "tdxb", 
+   "dxb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.275305129852253, 
+  "Time": 14505, 
+  "Duration": 158, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 53", 
+  "tags": [
+   "basra", 
+   "karachi", 
+   "door", 
+   "dubai", 
+   "taxi"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 14675, 
+  "Duration": 61, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 49", 
+  "tags": [
+   "tanya", 
+   "hobyo", 
+   "dia", 
+   "fifth", 
+   "advanced"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.205102321739928, 
+  "Time": 14761, 
+  "Duration": 122, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 2", 
+  "tags": [
+   "tabriz", 
+   "address", 
+   "kiev", 
+   "iran", 
+   "unlisted"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0674497568138017, 
+  "Time": 14890, 
+  "Duration": 52, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 12", 
+  "tags": [
+   "tabriz", 
+   "caller", 
+   "address", 
+   "receiver", 
+   "dubai"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.564375516197119, 
+  "Time": 14953, 
+  "Duration": 56, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 38", 
+  "tags": [
+   "khemkhaeng", 
+   "boonmee", 
+   "chanarong", 
+   "lim", 
+   "june"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1431586675231715, 
+  "Time": 15031, 
+  "Duration": 196, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing38,ArmsDealing31", 
+  "tags": [
+   "ArmsDealing38,ArmsDealing31"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 15247, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 43", 
+  "tags": [
+   "military", 
+   "landing", 
+   "kenya", 
+   "sleeping", 
+   "knives"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.349637514912361, 
+  "Time": 15344, 
+  "Duration": 120, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 39", 
+  "tags": [
+   "jhangvi", 
+   "blanks", 
+   "lahore", 
+   "ali", 
+   "bhutto"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.060567128567495, 
+  "Time": 15479, 
+  "Duration": 79, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 12", 
+  "tags": [
+   "tabriz", 
+   "caller", 
+   "address", 
+   "receiver", 
+   "dubai"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.564375516197119, 
+  "Time": 15579, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Yemen"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 15749, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 76", 
+  "tags": [
+   "gone", 
+   "armoury", 
+   "securing", 
+   "sour", 
+   "standard"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 15796, 
+  "Duration": 305, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 73", 
+  "tags": [
+   "minsky", 
+   "italian", 
+   "room", 
+   "found", 
+   "organization"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0481783977241443, 
+  "Time": 16127, 
+  "Duration": 160, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 51", 
+  "tags": [
+   "sviatoslavich", 
+   "residence", 
+   "kiev", 
+   "style", 
+   "massacre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16296, 
+  "Duration": 88, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 27", 
+  "tags": [
+   "dubai", 
+   "exhibition", 
+   "forward", 
+   "scheduled", 
+   "borodinski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 16401, 
+  "Duration": 84, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 29", 
+  "tags": [
+   "anka", 
+   "kasem", 
+   "tit", 
+   "fly", 
+   "tno"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1720657061576576, 
+  "Time": 16562, 
+  "Duration": 110, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 69", 
+  "tags": [
+   "court", 
+   "convicted", 
+   "defendants", 
+   "ruled", 
+   "sentence"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.680003670735065, 
+  "Time": 16689, 
+  "Duration": 310, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Minsky"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 17000, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 65", 
+  "tags": [
+   "korea", 
+   "weapons", 
+   "prosecutors", 
+   "plane", 
+   "north"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 17100, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing69,ArmsDealing65", 
+  "tags": [
+   "ArmsDealing69,ArmsDealing65"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 17148, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "ArmsDealing65,ArmsDealing30", 
+  "tags": [
+   "ArmsDealing65,ArmsDealing30"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 17204, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Saudi Arabia"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 17534, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 20", 
+  "tags": [
+   "hakan", 
+   "money", 
+   "turkey", 
+   "tthe", 
+   "meantime"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2794347068000365, 
+  "Time": 17591, 
+  "Duration": 48, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 73", 
+  "tags": [
+   "minsky", 
+   "italian", 
+   "room", 
+   "found", 
+   "organization"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0481783977241443, 
+  "Time": 17653, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Iran"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 17718, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 34", 
+  "tags": [
+   "taken", 
+   "ilyushin", 
+   "crew", 
+   "members", 
+   "arms"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.275305129852253, 
+  "Time": 17741, 
+  "Duration": 164, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 60", 
+  "tags": [
+   "spokesman", 
+   "tons", 
+   "thai", 
+   "aircraft", 
+   "weapons"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 17921, 
+  "Duration": 53, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 1", 
+  "tags": [
+   "sudan", 
+   "research", 
+   "survey", 
+   "guns", 
+   "southern"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.28356428374782, 
+  "Time": 17991, 
+  "Duration": 110, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 11", 
+  "tags": [
+   "brother", 
+   "textbooks", 
+   "school", 
+   "friend", 
+   "salesman"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.083968064604937, 
+  "Time": 18112, 
+  "Duration": 390, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 60", 
+  "tags": [
+   "spokesman", 
+   "tons", 
+   "thai", 
+   "aircraft", 
+   "weapons"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18530, 
+  "Duration": 108, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 71", 
+  "tags": [
+   "born", 
+   "usa", 
+   "nahid", 
+   "thabiti", 
+   "narok"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.034413141231532, 
+  "Time": 18653, 
+  "Duration": 81, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 1", 
+  "tags": [
+   "sudan", 
+   "research", 
+   "survey", 
+   "guns", 
+   "southern"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.28356428374782, 
+  "Time": 18753, 
+  "Duration": 38, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Venezuela"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 18858, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 6", 
+  "tags": [
+   "caller", 
+   "shut", 
+   "think", 
+   "anything", 
+   "barcelona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5974121317793886, 
+  "Time": 18889, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 7", 
+  "tags": [
+   "caller", 
+   "something", 
+   "carabobo", 
+   "jhon", 
+   "pillo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18919, 
+  "Duration": 33, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 9", 
+  "tags": [
+   "khouri", 
+   "kasem", 
+   "car", 
+   "tit", 
+   "tare"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 18963, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Columbia"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 19050, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Kenya"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 19266, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 68", 
+  "tags": [
+   "nairobi", 
+   "senior", 
+   "otieno", 
+   "questioning", 
+   "connection"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.1899605395980544, 
+  "Time": 19438, 
+  "Duration": 72, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 72", 
+  "tags": [
+   "imposed", 
+   "korea", 
+   "rockets", 
+   "sales", 
+   "thailand"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.4707717720473528, 
+  "Time": 19575, 
+  "Duration": 36, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 65", 
+  "tags": [
+   "korea", 
+   "weapons", 
+   "prosecutors", 
+   "plane", 
+   "north"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 19644, 
+  "Duration": 96, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 70", 
+  "tags": [
+   "minsky", 
+   "discovered", 
+   "italy", 
+   "diamonds", 
+   "repubblica"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0619436542167566, 
+  "Time": 19837, 
+  "Duration": 160, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing70,ArmsDealing68", 
+  "tags": [
+   "ArmsDealing70,ArmsDealing68"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 19998, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 74", 
+  "tags": [
+   "conflict", 
+   "camps", 
+   "yemen", 
+   "fighting", 
+   "shiite"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 20066, 
+  "Duration": 21, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Otieno"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 20140, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 74", 
+  "tags": [
+   "conflict", 
+   "camps", 
+   "yemen", 
+   "fighting", 
+   "shiite"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 20170, 
+  "Duration": 22, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 68", 
+  "tags": [
+   "nairobi", 
+   "senior", 
+   "otieno", 
+   "questioning", 
+   "connection"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.1899605395980544, 
+  "Time": 20344, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 70", 
+  "tags": [
+   "minsky", 
+   "discovered", 
+   "italy", 
+   "diamonds", 
+   "repubblica"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0619436542167566, 
+  "Time": 20378, 
+  "Duration": 124, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "disease"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 20811, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "sick"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 20859, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "2009"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 21337, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 95", 
+  "tags": [
+   "emerites", 
+   "afternoon", 
+   "savvytraveladvice", 
+   "forum", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 21476, 
+  "Duration": 242, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 84", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "sending", 
+   "condition", 
+   "many"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0770854363586304, 
+  "Time": 21719, 
+  "Duration": 484, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing95,ArmsDealing84", 
+  "tags": [
+   "ArmsDealing95,ArmsDealing84"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 22204, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 84", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "sending", 
+   "condition", 
+   "many"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0770854363586304, 
+  "Time": 22330, 
+  "Duration": 31, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 95", 
+  "tags": [
+   "emerites", 
+   "afternoon", 
+   "savvytraveladvice", 
+   "forum", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 22370, 
+  "Duration": 73, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 87", 
+  "tags": [
+   "parts", 
+   "volkswagons", 
+   "exhaust", 
+   "ignition", 
+   "broken"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.094980269799027, 
+  "Time": 22469, 
+  "Duration": 37, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 90", 
+  "tags": [
+   "parts", 
+   "exchange", 
+   "boarded", 
+   "sending", 
+   "pontiac"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22536, 
+  "Duration": 30, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 91", 
+  "tags": [
+   "sails", 
+   "jtomski", 
+   "meeting", 
+   "jhon", 
+   "payment"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1459117188216945, 
+  "Time": 22579, 
+  "Duration": 20, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 92", 
+  "tags": [
+   "jtomski", 
+   "jhon", 
+   "boarded", 
+   "november", 
+   "january"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22624, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 94", 
+  "tags": [
+   "savvytraveladvice", 
+   "forum", 
+   "jhon", 
+   "wednesday", 
+   "travel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.05506102597045, 
+  "Time": 22650, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 24", 
+  "tags": [
+   "tyes", 
+   "ninety", 
+   "type", 
+   "cases", 
+   "tractors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 22699, 
+  "Duration": 361, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing24,ArmsDealing95", 
+  "tags": [
+   "ArmsDealing24,ArmsDealing95"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 23131, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 55", 
+  "tags": [
+   "tlhe", 
+   "card", 
+   "identity", 
+   "tdxb", 
+   "dxb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.275305129852253, 
+  "Time": 23169, 
+  "Duration": 37, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 29", 
+  "tags": [
+   "anka", 
+   "kasem", 
+   "tit", 
+   "fly", 
+   "tno"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1720657061576576, 
+  "Time": 23214, 
+  "Duration": 57, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 27", 
+  "tags": [
+   "dubai", 
+   "exhibition", 
+   "forward", 
+   "scheduled", 
+   "borodinski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23294, 
+  "Duration": 290, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing27,ArmsDealing24", 
+  "tags": [
+   "ArmsDealing27,ArmsDealing24"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 23642, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 77", 
+  "tags": [
+   "trading", 
+   "yemen", 
+   "death", 
+   "kalid", 
+   "ownership"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23766, 
+  "Duration": 51, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 53", 
+  "tags": [
+   "basra", 
+   "karachi", 
+   "door", 
+   "dubai", 
+   "taxi"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 23858, 
+  "Duration": 170, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Dombrovski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 24202, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 80", 
+  "tags": [
+   "kapolalum", 
+   "funsho", 
+   "engr", 
+   "operation", 
+   "assistant"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.11975773148573, 
+  "Time": 24304, 
+  "Duration": 269, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 97", 
+  "tags": [
+   "saudi", 
+   "arms", 
+   "firearms", 
+   "riyal", 
+   "fine"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.619436542167569, 
+  "Time": 24779, 
+  "Duration": 137, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 51", 
+  "tags": [
+   "sviatoslavich", 
+   "residence", 
+   "kiev", 
+   "style", 
+   "massacre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 25001, 
+  "Duration": 161, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 3", 
+  "tags": [
+   "tabnapkkackh", 
+   "tebilaead", 
+   "per", 
+   "belong", 
+   "haq"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.05506102597045, 
+  "Time": 25208, 
+  "Duration": 114, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 4", 
+  "tags": [
+   "june", 
+   "english", 
+   "phone", 
+   "domodedovo", 
+   "virote"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.22850325777737, 
+  "Time": 25344, 
+  "Duration": 118, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 11", 
+  "tags": [
+   "brother", 
+   "textbooks", 
+   "school", 
+   "friend", 
+   "salesman"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.083968064604937, 
+  "Time": 25474, 
+  "Duration": 82, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 96", 
+  "tags": [
+   "mutual", 
+   "health", 
+   "mikhail", 
+   "issued", 
+   "success"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.9993576213636777, 
+  "Time": 25710, 
+  "Duration": 223, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Ahmed"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 25934, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 29", 
+  "tags": [
+   "anka", 
+   "kasem", 
+   "tit", 
+   "fly", 
+   "tno"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1720657061576576, 
+  "Time": 25985, 
+  "Duration": 201, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 56", 
+  "tags": [
+   "bukhari", 
+   "basra", 
+   "drove", 
+   "minutes", 
+   "follow"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 26202, 
+  "Duration": 69, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 68", 
+  "tags": [
+   "nairobi", 
+   "senior", 
+   "otieno", 
+   "questioning", 
+   "connection"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.1899605395980544, 
+  "Time": 26778, 
+  "Duration": 226, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "infectious"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 27197, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pandemic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 27257, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "arms"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 27306, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 37", 
+  "tags": [
+   "basra", 
+   "bakery", 
+   "jalil", 
+   "scooter", 
+   "coffeehouse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27372, 
+  "Duration": 138, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 40", 
+  "tags": [
+   "bhutani", 
+   "men", 
+   "ullah", 
+   "mosque", 
+   "left"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27523, 
+  "Duration": 113, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 40", 
+  "tags": [
+   "bhutani", 
+   "men", 
+   "ullah", 
+   "mosque", 
+   "left"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27644, 
+  "Duration": 177, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 40", 
+  "tags": [
+   "bhutani", 
+   "men", 
+   "ullah", 
+   "mosque", 
+   "left"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27827, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 40", 
+  "tags": [
+   "bhutani", 
+   "men", 
+   "ullah", 
+   "mosque", 
+   "left"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 27870, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 40", 
+  "tags": [
+   "arms dealers Nicolai Kuryakin and Boonmee Khemkhaengare"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 27900, 
+  "Duration": 10, 
+  "InteractionType": "HighlightTxt"
+ }, 
+ {
+  "DocNum": "ArmsDealing37,ArmsDealing40", 
+  "tags": [
+   "ArmsDealing37,ArmsDealing40"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 28005, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 35", 
+  "tags": [
+   "bout", 
+   "arms", 
+   "recipient", 
+   "ability", 
+   ">''"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28042, 
+  "Duration": 56, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing35,ArmsDealing37", 
+  "tags": [
+   "ArmsDealing35,ArmsDealing37"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 28155, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 64", 
+  "tags": [
+   "guns", 
+   "year", 
+   "ago", 
+   "safety", 
+   "amant"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0908506928512436, 
+  "Time": 28270, 
+  "Duration": 245, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 60", 
+  "tags": [
+   "spokesman", 
+   "tons", 
+   "thai", 
+   "aircraft", 
+   "weapons"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28574, 
+  "Duration": 128, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 77", 
+  "tags": [
+   "trading", 
+   "yemen", 
+   "death", 
+   "kalid", 
+   "ownership"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28816, 
+  "Duration": 48, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 51", 
+  "tags": [
+   "sviatoslavich", 
+   "residence", 
+   "kiev", 
+   "style", 
+   "massacre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 28907, 
+  "Duration": 66, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 69", 
+  "tags": [
+   "court", 
+   "convicted", 
+   "defendants", 
+   "ruled", 
+   "sentence"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.680003670735065, 
+  "Time": 28974, 
+  "Duration": 45, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 83", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "jhon", 
+   "thank", 
+   "boarded"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29116, 
+  "Duration": 66, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 16", 
+  "tags": [
+   "soon", 
+   "equipment", 
+   "purchase", 
+   "farming", 
+   "arrangements"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2119849499862347, 
+  "Time": 29275, 
+  "Duration": 156, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 20", 
+  "tags": [
+   "hakan", 
+   "money", 
+   "turkey", 
+   "tthe", 
+   "meantime"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2794347068000365, 
+  "Time": 29469, 
+  "Duration": 21, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 102", 
+  "tags": [
+   "pirates", 
+   "tanya", 
+   "destination", 
+   "ransom", 
+   "owner"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 29749, 
+  "Duration": 211, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "sudan"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 29961, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 30025, 
+  "Duration": 146, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 67", 
+  "tags": [
+   "arms", 
+   "adoyo", 
+   "storm", 
+   "battles", 
+   "forces"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.653849683399101, 
+  "Time": 30193, 
+  "Duration": 160, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing68,ArmsDealing67", 
+  "tags": [
+   "ArmsDealing68,ArmsDealing67"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 30380, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 42", 
+  "tags": [
+   "apartment", 
+   "subject", 
+   "august", 
+   "caf", 
+   "mjf"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30443, 
+  "Duration": 272, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "death"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 30767, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 56", 
+  "tags": [
+   "bukhari", 
+   "basra", 
+   "drove", 
+   "minutes", 
+   "follow"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 30819, 
+  "Duration": 51, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "May"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 30939, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "May 2009"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 31014, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 55", 
+  "tags": [
+   "tlhe", 
+   "card", 
+   "identity", 
+   "tdxb", 
+   "dxb"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.275305129852253, 
+  "Time": 31068, 
+  "Duration": 243, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 56", 
+  "tags": [
+   "bukhari", 
+   "basra", 
+   "drove", 
+   "minutes", 
+   "follow"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 31318, 
+  "Duration": 10, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "May"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 31380, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 81", 
+  "tags": [
+   "tool", 
+   "investment", 
+   "honor", 
+   "worker", 
+   "sure"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.287693860695604, 
+  "Time": 31424, 
+  "Duration": 48, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Otieno"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 31688, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 100", 
+  "tags": [
+   "fear", 
+   "range", 
+   "shooting", 
+   "remainder", 
+   "retribution"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.27255207855373, 
+  "Time": 31777, 
+  "Duration": 95, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing100,ArmsDealing42", 
+  "tags": [
+   "ArmsDealing100,ArmsDealing42"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 31873, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Onyango"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 31958, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Owiti"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 32069, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 27", 
+  "tags": [
+   "dubai", 
+   "exhibition", 
+   "forward", 
+   "scheduled", 
+   "borodinski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 32352, 
+  "Duration": 65, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "health"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 32458, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 73", 
+  "tags": [
+   "minsky", 
+   "italian", 
+   "room", 
+   "found", 
+   "organization"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0481783977241443, 
+  "Time": 32486, 
+  "Duration": 273, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 9", 
+  "tags": [
+   "khouri", 
+   "kasem", 
+   "car", 
+   "tit", 
+   "tare"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33201, 
+  "Duration": 166, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 3", 
+  "tags": [
+   "tabnapkkackh", 
+   "tebilaead", 
+   "per", 
+   "belong", 
+   "haq"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.05506102597045, 
+  "Time": 33449, 
+  "Duration": 215, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Borodinski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 33665, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 33", 
+  "tags": [
+   "uae", 
+   "flight", 
+   "kiev", 
+   "plan", 
+   "airport"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 33706, 
+  "Duration": 84, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing33,ArmsDealing3", 
+  "tags": [
+   "ArmsDealing33,ArmsDealing3"
+  ], 
+  "ClassNum": [
+   2, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 33871, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 15", 
+  "tags": [
+   "tmosweumm", 
+   "identification", 
+   "transaction", 
+   "communication", 
+   "amount"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0660732311645402, 
+  "Time": 34022, 
+  "Duration": 195, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 18", 
+  "tags": [
+   "list", 
+   "choices", 
+   "thow", 
+   "mobile", 
+   "money"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.342754886666055, 
+  "Time": 34246, 
+  "Duration": 52, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 20", 
+  "tags": [
+   "hakan", 
+   "money", 
+   "turkey", 
+   "tthe", 
+   "meantime"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2794347068000365, 
+  "Time": 34333, 
+  "Duration": 25, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 21", 
+  "tags": [
+   "arabian", 
+   "monetary", 
+   "saudi", 
+   "agency", 
+   "identification"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 34372, 
+  "Duration": 19, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 46", 
+  "tags": [
+   "kasem", 
+   "foot", 
+   "car", 
+   "aramaf", 
+   "shulaf"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 34435, 
+  "Duration": 154, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 15", 
+  "tags": [
+   "tmosweumm", 
+   "identification", 
+   "transaction", 
+   "communication", 
+   "amount"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0660732311645402, 
+  "Time": 34657, 
+  "Duration": 36, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing15,ArmsDealing23", 
+  "tags": [
+   "ArmsDealing15,ArmsDealing23"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 34725, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "ArmsDealing16,ArmsDealing23", 
+  "tags": [
+   "ArmsDealing16,ArmsDealing23"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 34752, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 76", 
+  "tags": [
+   "gone", 
+   "armoury", 
+   "securing", 
+   "sour", 
+   "standard"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 35180, 
+  "Duration": 100, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 95", 
+  "tags": [
+   "emerites", 
+   "afternoon", 
+   "savvytraveladvice", 
+   "forum", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 35680, 
+  "Duration": 130, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "George"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 35811, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 85", 
+  "tags": [
+   "contract", 
+   "stand", 
+   "ptf", 
+   "company", 
+   "ngoki"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5230797467192803, 
+  "Time": 35874, 
+  "Duration": 429, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 98", 
+  "tags": [
+   "gashi", 
+   "operation", 
+   "sldf", 
+   "harassment", 
+   "regional"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.251904193814812, 
+  "Time": 36925, 
+  "Duration": 224, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "munition"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 37225, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 99", 
+  "tags": [
+   "training", 
+   "kenya", 
+   "chief", 
+   "commandant", 
+   "armours"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.4129576947783793, 
+  "Time": 37270, 
+  "Duration": 178, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dealing"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 37786, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 64", 
+  "tags": [
+   "guns", 
+   "year", 
+   "ago", 
+   "safety", 
+   "amant"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0908506928512436, 
+  "Time": 37841, 
+  "Duration": 37, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 61", 
+  "tags": [
+   "bangkok", 
+   "staff", 
+   "plane", 
+   "thai", 
+   "destination"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.139029090575388, 
+  "Time": 37879, 
+  "Duration": 11, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Nigeria"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 38165, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 79", 
+  "tags": [
+   "bangkok", 
+   "airport", 
+   "plane", 
+   "feb", 
+   "crew"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38211, 
+  "Duration": 81, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 81", 
+  "tags": [
+   "tool", 
+   "investment", 
+   "honor", 
+   "worker", 
+   "sure"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.287693860695604, 
+  "Time": 38302, 
+  "Duration": 87, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "disease"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 38688, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "sick"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 38745, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "pandemic"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 38845, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 93", 
+  "tags": [
+   "april", 
+   "emerites", 
+   "savvytraveladvice", 
+   "forum", 
+   "plan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 38949, 
+  "Duration": 55, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 94", 
+  "tags": [
+   "savvytraveladvice", 
+   "forum", 
+   "jhon", 
+   "wednesday", 
+   "travel"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.05506102597045, 
+  "Time": 39024, 
+  "Duration": 135, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 47", 
+  "tags": [
+   "somalian", 
+   "somali", 
+   "approximately", 
+   "toward", 
+   "coast"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1954666421950995, 
+  "Time": 39264, 
+  "Duration": 70, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 7", 
+  "tags": [
+   "caller", 
+   "something", 
+   "carabobo", 
+   "jhon", 
+   "pillo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 39435, 
+  "Duration": 66, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 10", 
+  "tags": [
+   "caller", 
+   "green", 
+   "money", 
+   "bolivar", 
+   "sending"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5478572084059836, 
+  "Time": 39806, 
+  "Duration": 196, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Apr"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 40392, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 61", 
+  "tags": [
+   "bangkok", 
+   "staff", 
+   "plane", 
+   "thai", 
+   "destination"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.139029090575388, 
+  "Time": 40482, 
+  "Duration": 263, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 34", 
+  "tags": [
+   "taken", 
+   "ilyushin", 
+   "crew", 
+   "members", 
+   "arms"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.275305129852253, 
+  "Time": 40777, 
+  "Duration": 235, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 29", 
+  "tags": [
+   "anka", 
+   "kasem", 
+   "tit", 
+   "fly", 
+   "tno"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1720657061576576, 
+  "Time": 41023, 
+  "Duration": 65, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 11", 
+  "tags": [
+   "brother", 
+   "textbooks", 
+   "school", 
+   "friend", 
+   "salesman"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.083968064604937, 
+  "Time": 41089, 
+  "Duration": 80, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 8", 
+  "tags": [
+   "caller", 
+   "carabobo", 
+   "venezuela", 
+   "ready", 
+   "warehouse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.028907038634487, 
+  "Time": 41180, 
+  "Duration": 34, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Mar"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 41251, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 57", 
+  "tags": [
+   "death", 
+   "may", 
+   "subject", 
+   "hospital", 
+   "survive"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 41463, 
+  "Duration": 74, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "gun"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 42099, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 5", 
+  "tags": [
+   "khouri", 
+   "kasam", 
+   "decide", 
+   "money", 
+   "tnot"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.150041295769478, 
+  "Time": 42198, 
+  "Duration": 375, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "car"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 42606, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 87", 
+  "tags": [
+   "parts", 
+   "volkswagons", 
+   "exhaust", 
+   "ignition", 
+   "broken"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.094980269799027, 
+  "Time": 42699, 
+  "Duration": 73, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 71", 
+  "tags": [
+   "born", 
+   "usa", 
+   "nahid", 
+   "thabiti", 
+   "narok"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.034413141231532, 
+  "Time": 42800, 
+  "Duration": 34, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 44", 
+  "tags": [
+   "bukhari", 
+   "boxes", 
+   "house", 
+   "delivery", 
+   "lyari"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.037166192530054, 
+  "Time": 42844, 
+  "Duration": 20, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 59", 
+  "tags": [
+   "terrorist", 
+   "park", 
+   "belong", 
+   "cid", 
+   "gathering"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42887, 
+  "Duration": 19, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 89", 
+  "tags": [
+   "parts", 
+   "write", 
+   "different", 
+   "kinds", 
+   "dose"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1170046801872076, 
+  "Time": 42916, 
+  "Duration": 70, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 90", 
+  "tags": [
+   "parts", 
+   "exchange", 
+   "boarded", 
+   "sending", 
+   "pontiac"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 42995, 
+  "Duration": 41, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 91", 
+  "tags": [
+   "sails", 
+   "jtomski", 
+   "meeting", 
+   "jhon", 
+   "payment"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1459117188216945, 
+  "Time": 43057, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 92", 
+  "tags": [
+   "jtomski", 
+   "jhon", 
+   "boarded", 
+   "november", 
+   "january"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43077, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 93", 
+  "tags": [
+   "april", 
+   "emerites", 
+   "savvytraveladvice", 
+   "forum", 
+   "plan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43100, 
+  "Duration": 8, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 9", 
+  "tags": [
+   "khouri", 
+   "kasem", 
+   "car", 
+   "tit", 
+   "tare"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43129, 
+  "Duration": 217, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 8", 
+  "tags": [
+   "caller", 
+   "carabobo", 
+   "venezuela", 
+   "ready", 
+   "warehouse"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.028907038634487, 
+  "Time": 43353, 
+  "Duration": 219, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 7", 
+  "tags": [
+   "caller", 
+   "something", 
+   "carabobo", 
+   "jhon", 
+   "pillo"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43578, 
+  "Duration": 38, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 6", 
+  "tags": [
+   "caller", 
+   "shut", 
+   "think", 
+   "anything", 
+   "barcelona"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5974121317793886, 
+  "Time": 43630, 
+  "Duration": 31, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 28", 
+  "tags": [
+   "brother", 
+   "families", 
+   "farming", 
+   "truly", 
+   "caller"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 43668, 
+  "Duration": 114, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 5", 
+  "tags": [
+   "khouri", 
+   "kasam", 
+   "decide", 
+   "money", 
+   "tnot"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.150041295769478, 
+  "Time": 43824, 
+  "Duration": 151, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "parts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 44071, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 82", 
+  "tags": [
+   "contract", 
+   "nigeria", 
+   "share", 
+   "funds", 
+   "money"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44102, 
+  "Duration": 63, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 83", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "jhon", 
+   "thank", 
+   "boarded"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44175, 
+  "Duration": 127, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 86", 
+  "tags": [
+   "contract", 
+   "ptf", 
+   "approved", 
+   "port", 
+   "warri"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.078461962007892, 
+  "Time": 44316, 
+  "Duration": 87, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 87", 
+  "tags": [
+   "parts", 
+   "volkswagons", 
+   "exhaust", 
+   "ignition", 
+   "broken"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.094980269799027, 
+  "Time": 44414, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 88", 
+  "tags": [
+   "car", 
+   "pontiac", 
+   "classic", 
+   "parts", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44449, 
+  "Duration": 57, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 89", 
+  "tags": [
+   "parts", 
+   "write", 
+   "different", 
+   "kinds", 
+   "dose"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1170046801872076, 
+  "Time": 44519, 
+  "Duration": 55, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 90", 
+  "tags": [
+   "parts", 
+   "exchange", 
+   "boarded", 
+   "sending", 
+   "pontiac"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 44598, 
+  "Duration": 166, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "jtomski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 44765, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 91", 
+  "tags": [
+   "sails", 
+   "jtomski", 
+   "meeting", 
+   "jhon", 
+   "payment"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1459117188216945, 
+  "Time": 44922, 
+  "Duration": 50, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "car"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45080, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "car parts"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45126, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "car"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45165, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 61", 
+  "tags": [
+   "bangkok", 
+   "staff", 
+   "plane", 
+   "thai", 
+   "destination"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.139029090575388, 
+  "Time": 45211, 
+  "Duration": 16, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 60", 
+  "tags": [
+   "spokesman", 
+   "tons", 
+   "thai", 
+   "aircraft", 
+   "weapons"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45239, 
+  "Duration": 10, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 59", 
+  "tags": [
+   "terrorist", 
+   "park", 
+   "belong", 
+   "cid", 
+   "gathering"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45260, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 53", 
+  "tags": [
+   "basra", 
+   "karachi", 
+   "door", 
+   "dubai", 
+   "taxi"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45285, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 78", 
+  "tags": [
+   "exhibition", 
+   "rosoboronexport", 
+   "air", 
+   "novoski", 
+   "asia"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0922272185005046, 
+  "Time": 45309, 
+  "Duration": 9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 51", 
+  "tags": [
+   "sviatoslavich", 
+   "residence", 
+   "kiev", 
+   "style", 
+   "massacre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45327, 
+  "Duration": 9, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 5", 
+  "tags": [
+   "khouri", 
+   "kasam", 
+   "decide", 
+   "money", 
+   "tnot"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.150041295769478, 
+  "Time": 45348, 
+  "Duration": 18, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 45399, 
+  "Duration": 22, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 87", 
+  "tags": [
+   "parts", 
+   "volkswagons", 
+   "exhaust", 
+   "ignition", 
+   "broken"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.094980269799027, 
+  "Time": 45476, 
+  "Duration": 13, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing87,ArmsDealing5", 
+  "tags": [
+   "ArmsDealing87,ArmsDealing5"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 45529, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 63", 
+  "tags": [
+   "raleigh", 
+   "yemeni", 
+   "company", 
+   "thursday", 
+   "equipment"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45617, 
+  "Duration": 29, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 86", 
+  "tags": [
+   "contract", 
+   "ptf", 
+   "approved", 
+   "port", 
+   "warri"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.078461962007892, 
+  "Time": 45653, 
+  "Duration": 122, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "volkswagen"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45776, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "volkswagon"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 45799, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 88", 
+  "tags": [
+   "car", 
+   "pontiac", 
+   "classic", 
+   "parts", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45849, 
+  "Duration": 36, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 83", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "jhon", 
+   "thank", 
+   "boarded"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 45893, 
+  "Duration": 67, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing83,ArmsDealing5", 
+  "tags": [
+   "ArmsDealing83,ArmsDealing5"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 45961, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 88", 
+  "tags": [
+   "car", 
+   "pontiac", 
+   "classic", 
+   "parts", 
+   "vwhombre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46023, 
+  "Duration": 117, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing88,ArmsDealing5", 
+  "tags": [
+   "ArmsDealing88,ArmsDealing5"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 46141, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 46178, 
+  "Duration": 14, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 86", 
+  "tags": [
+   "contract", 
+   "ptf", 
+   "approved", 
+   "port", 
+   "warri"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.078461962007892, 
+  "Time": 46217, 
+  "Duration": 14, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 101", 
+  "tags": [
+   "guns", 
+   "lived", 
+   "respects", 
+   "ammunition", 
+   "possession"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2656694503074237, 
+  "Time": 46249, 
+  "Duration": 36, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 86", 
+  "tags": [
+   "contract", 
+   "ptf", 
+   "approved", 
+   "port", 
+   "warri"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.078461962007892, 
+  "Time": 46298, 
+  "Duration": 45, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing86,ArmsDealing5", 
+  "tags": [
+   "ArmsDealing86,ArmsDealing5"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 46344, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 90", 
+  "tags": [
+   "parts", 
+   "exchange", 
+   "boarded", 
+   "sending", 
+   "pontiac"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46447, 
+  "Duration": 46, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "sail"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 46526, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 44", 
+  "tags": [
+   "bukhari", 
+   "boxes", 
+   "house", 
+   "delivery", 
+   "lyari"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.037166192530054, 
+  "Time": 46551, 
+  "Duration": 44, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "car"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 46639, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 57", 
+  "tags": [
+   "death", 
+   "may", 
+   "subject", 
+   "hospital", 
+   "survive"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46686, 
+  "Duration": 45, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 51", 
+  "tags": [
+   "sviatoslavich", 
+   "residence", 
+   "kiev", 
+   "style", 
+   "massacre"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46778, 
+  "Duration": 26, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 48", 
+  "tags": [
+   "captain", 
+   "accident", 
+   "deck", 
+   "mate", 
+   "victim"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46843, 
+  "Duration": 17, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 33", 
+  "tags": [
+   "uae", 
+   "flight", 
+   "kiev", 
+   "plan", 
+   "airport"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 46874, 
+  "Duration": 19, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 38", 
+  "tags": [
+   "khemkhaeng", 
+   "boonmee", 
+   "chanarong", 
+   "lim", 
+   "june"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1431586675231715, 
+  "Time": 46908, 
+  "Duration": 25, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 31", 
+  "tags": [
+   "difficulties", 
+   "expected", 
+   "kenya", 
+   "dubai", 
+   "jewels"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.1114985775901625, 
+  "Time": 46934, 
+  "Duration": 12, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 54", 
+  "tags": [
+   "medical", 
+   "kashfi", 
+   "rana", 
+   "men", 
+   "ruby"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.114251628888685, 
+  "Time": 46961, 
+  "Duration": 42, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 96", 
+  "tags": [
+   "mutual", 
+   "health", 
+   "mikhail", 
+   "issued", 
+   "success"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.9993576213636777, 
+  "Time": 47021, 
+  "Duration": 33, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 79", 
+  "tags": [
+   "bangkok", 
+   "airport", 
+   "plane", 
+   "feb", 
+   "crew"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47441, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "money"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 47526, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 9", 
+  "tags": [
+   "khouri", 
+   "kasem", 
+   "car", 
+   "tit", 
+   "tare"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47636, 
+  "Duration": 115, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "green"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 47752, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "123"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 47843, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "136"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 47871, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 14", 
+  "tags": [
+   "identification", 
+   "transaction", 
+   "communication", 
+   "amount", 
+   "number"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 47984, 
+  "Duration": 98, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing14,ArmsDealing9", 
+  "tags": [
+   "ArmsDealing14,ArmsDealing9"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 48104, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 12", 
+  "tags": [
+   "tabriz", 
+   "caller", 
+   "address", 
+   "receiver", 
+   "dubai"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.564375516197119, 
+  "Time": 48263, 
+  "Duration": 43, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing12,ArmsDealing9", 
+  "tags": [
+   "ArmsDealing12,ArmsDealing9"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 48326, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 13", 
+  "tags": [
+   "tebilaead", 
+   "per", 
+   "belong", 
+   "haq", 
+   "bukhari"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0385427181793156, 
+  "Time": 48365, 
+  "Duration": 94, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing13,ArmsDealing9", 
+  "tags": [
+   "ArmsDealing13,ArmsDealing9"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 48504, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 16", 
+  "tags": [
+   "soon", 
+   "equipment", 
+   "purchase", 
+   "farming", 
+   "arrangements"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.2119849499862347, 
+  "Time": 48548, 
+  "Duration": 198, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Celik"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 48747, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "Hakan"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 48840, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 19", 
+  "tags": [
+   "notified", 
+   "gunter", 
+   "caller", 
+   "relationship", 
+   "chanarong"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 48942, 
+  "Duration": 214, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing19,ArmsDealing16", 
+  "tags": [
+   "ArmsDealing19,ArmsDealing16"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 49194, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 15", 
+  "tags": [
+   "tmosweumm", 
+   "identification", 
+   "transaction", 
+   "communication", 
+   "amount"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0660732311645402, 
+  "Time": 49483, 
+  "Duration": 263, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dubia"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49747, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dubai"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 49774, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 24", 
+  "tags": [
+   "tyes", 
+   "ninety", 
+   "type", 
+   "cases", 
+   "tractors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 49822, 
+  "Duration": 184, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing15,ArmsDealing24", 
+  "tags": [
+   "ArmsDealing15,ArmsDealing24"
+  ], 
+  "ClassNum": [
+   1, 
+   1
+  ], 
+  "stepHeight": 10, 
+  "Time": 50007, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "farm"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 50180, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 27", 
+  "tags": [
+   "dubai", 
+   "exhibition", 
+   "forward", 
+   "scheduled", 
+   "borodinski"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50220, 
+  "Duration": 95, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 62", 
+  "tags": [
+   "flight", 
+   "navigator", 
+   "drilling", 
+   "plotnitskaia", 
+   "open"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50328, 
+  "Duration": 124, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing23,ArmsDealing62", 
+  "tags": [
+   "ArmsDealing23,ArmsDealing62"
+  ], 
+  "ClassNum": [
+   1, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 50526, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 24", 
+  "tags": [
+   "tyes", 
+   "ninety", 
+   "type", 
+   "cases", 
+   "tractors"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 50815, 
+  "Duration": 57, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 84", 
+  "tags": [
+   "parts", 
+   "jtomski", 
+   "sending", 
+   "condition", 
+   "many"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.0770854363586304, 
+  "Time": 50908, 
+  "Duration": 35, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 85", 
+  "tags": [
+   "contract", 
+   "stand", 
+   "ptf", 
+   "company", 
+   "ngoki"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.5230797467192803, 
+  "Time": 50963, 
+  "Duration": 75, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "dr"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 7, 
+  "Time": 51104, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }, 
+ {
+  "DocNum": "Armsdealing 80", 
+  "tags": [
+   "kapolalum", 
+   "funsho", 
+   "engr", 
+   "operation", 
+   "assistant"
+  ], 
+  "ClassNum": [
+   1
+  ], 
+  "stepHeight": 3.11975773148573, 
+  "Time": 51163, 
+  "Duration": 23, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 52", 
+  "tags": [
+   "giunter", 
+   "legitimate", 
+   "precious", 
+   "carats", 
+   "stones"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.2684225016059463, 
+  "Time": 51193, 
+  "Duration": 13, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 1", 
+  "tags": [
+   "sudan", 
+   "research", 
+   "survey", 
+   "guns", 
+   "southern"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.28356428374782, 
+  "Time": 51249, 
+  "Duration": 58, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 61", 
+  "tags": [
+   "bangkok", 
+   "staff", 
+   "plane", 
+   "thai", 
+   "destination"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.139029090575388, 
+  "Time": 51419, 
+  "Duration": 27, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "ArmsDealing61,ArmsDealing1", 
+  "tags": [
+   "ArmsDealing61,ArmsDealing1"
+  ], 
+  "ClassNum": [
+   2, 
+   2
+  ], 
+  "stepHeight": 10, 
+  "Time": 51472, 
+  "Duration": 10, 
+  "InteractionType": "newConnection"
+ }, 
+ {
+  "DocNum": "Armsdealing 99", 
+  "tags": [
+   "training", 
+   "kenya", 
+   "chief", 
+   "commandant", 
+   "armours"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.4129576947783793, 
+  "Time": 51505, 
+  "Duration": 211, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 66", 
+  "tags": [
+   "minsky", 
+   "italian", 
+   "room", 
+   "found", 
+   "diamonds"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.6153069652197853, 
+  "Time": 51825, 
+  "Duration": 119, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 63", 
+  "tags": [
+   "raleigh", 
+   "yemeni", 
+   "company", 
+   "thursday", 
+   "equipment"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.0, 
+  "Time": 52274, 
+  "Duration": 188, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "Armsdealing 65", 
+  "tags": [
+   "korea", 
+   "weapons", 
+   "prosecutors", 
+   "plane", 
+   "north"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 3.049554923373406, 
+  "Time": 52959, 
+  "Duration": 392, 
+  "InteractionType": "OpenDoc"
+ }, 
+ {
+  "DocNum": "", 
+  "tags": [
+   "minsky"
+  ], 
+  "ClassNum": [
+   2
+  ], 
+  "stepHeight": 7, 
+  "Time": 53352, 
+  "Duration": 10, 
+  "InteractionType": "search"
+ }
+]
