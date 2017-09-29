@@ -1,0 +1,1634 @@
+[
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing1",
+        "events": [
+            "bank",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing10",
+        "events": [
+            "december",
+            "call",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing100",
+        "events": [
+            "found",
+            "october",
+            "minsky",
+            "police",
+            "mr"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing101",
+        "events": [
+            "north",
+            "october",
+            "plane",
+            "bangkok",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing102",
+        "events": [
+            "january",
+            "arms",
+            "contract",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing11",
+        "events": [
+            "mobile phone",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing12",
+        "events": [
+            "karachi",
+            "bukhari",
+            "transfer",
+            "bank",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing13",
+        "events": [
+            "information",
+            "intercept",
+            "date",
+            "transfer",
+            "bank"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing14",
+        "events": [
+            "information",
+            "intercept",
+            "date",
+            "transfer",
+            "bank"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing15",
+        "events": [
+            "december",
+            "call",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing16",
+        "events": [
+            "december",
+            "meet",
+            "caller",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing17",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing18",
+        "events": [
+            "mobile phone",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing19",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing2",
+        "events": [
+            "karachi",
+            "transfer",
+            "bank",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing20",
+        "events": [
+            "information",
+            "intercept",
+            "date",
+            "transfer",
+            "bank"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing21",
+        "events": [
+            "information",
+            "intercept",
+            "date",
+            "transfer",
+            "bank"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing22",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing23",
+        "events": [
+            "december",
+            "call",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing24",
+        "events": [
+            "meet",
+            "caller",
+            "phone registered",
+            "mobile phone",
+            "contract"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing25",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing26",
+        "events": [
+            "meet",
+            "telephone intercept",
+            "phone registered",
+            "mobile phone",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing27",
+        "events": [
+            "saudi",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing28",
+        "events": [
+            "apartment",
+            "caller",
+            "surveillance",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing29",
+        "events": [
+            "telephone intercept",
+            "equipment",
+            "phone registered",
+            "mobile phone",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing3",
+        "events": [
+            "september",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing30",
+        "events": [
+            "mobile phone",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing31",
+        "events": [
+            "january",
+            "provided cia",
+            "april",
+            "found",
+            "jhangvi"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing32",
+        "events": [
+            "make",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing33",
+        "events": [
+            "arms",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing34",
+        "events": [
+            "weapons",
+            "north",
+            "plane",
+            "bangkok",
+            "arms"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing35",
+        "events": [
+            "russian",
+            "caller",
+            "international",
+            "arms",
+            "september"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing36",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing37",
+        "events": [
+            "arms",
+            "plane",
+            "bangkok",
+            "international",
+            "september"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing38",
+        "events": [
+            "april",
+            "bukhari",
+            "found",
+            "provided cia",
+            "jhangvi"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing39",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing4",
+        "events": [
+            "phone registered",
+            "mobile phone",
+            "surveillance",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing40",
+        "events": [
+            "mobile phone",
+            "surveillance",
+            "russian",
+            "international",
+            "september"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing41",
+        "events": [
+            "bukhari",
+            "surveillance",
+            "provided cia",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing42",
+        "events": [
+            "police",
+            "company",
+            "military",
+            "equipment",
+            "mr"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing43",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing44",
+        "events": [
+            "bangkok",
+            "equipment",
+            "january",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing45",
+        "events": [
+            "military",
+            "provided cia",
+            "surveillance",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing46",
+        "events": [
+            "january",
+            "caller",
+            "minsky",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing47",
+        "events": [
+            "phone",
+            "russian",
+            "caller",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing48",
+        "events": [
+            "equipment",
+            "plane",
+            "bangkok",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing49",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing5",
+        "events": [
+            "minsky",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing50",
+        "events": [
+            "october",
+            "saudi",
+            "caller",
+            "russian",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing51",
+        "events": [
+            "meet",
+            "found",
+            "phone registered",
+            "mobile phone",
+            "minsky"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing52",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing53",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing54",
+        "events": [
+            "provided cia",
+            "january",
+            "april",
+            "found",
+            "jhangvi"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing55",
+        "events": [
+            "basra",
+            "left",
+            "karachi",
+            "bukhari",
+            "provided cia"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing56",
+        "events": [
+            "saudi",
+            "al",
+            "mobile phone",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing57",
+        "events": [
+            "russian",
+            "provided cia",
+            "surveillance",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing58",
+        "events": [
+            "saudi",
+            "al",
+            "arms",
+            "unit",
+            "house"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing59",
+        "events": [
+            "weapons",
+            "north",
+            "arms",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing6",
+        "events": [
+            "mobile phone",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing60",
+        "events": [
+            "provided cia",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing61",
+        "events": [
+            "make",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing62",
+        "events": [
+            "kasem",
+            "company",
+            "arms",
+            "military",
+            "equipment"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing63",
+        "events": [
+            "yemen",
+            "gun",
+            "arms",
+            "saudi",
+            "al"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing64",
+        "events": [
+            "arms",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing65",
+        "events": [
+            "international",
+            "police",
+            "hotel",
+            "found",
+            "minsky"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing66",
+        "events": [
+            "kasem",
+            "september",
+            "arms",
+            "police",
+            "security"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing67",
+        "events": [
+            "october",
+            "ministry",
+            "arms",
+            "police",
+            "mr"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing68",
+        "events": [
+            "date",
+            "caller",
+            "police",
+            "mr",
+            "arms"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing69",
+        "events": [
+            "arms",
+            "police",
+            "hotel",
+            "found",
+            "minsky"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing7",
+        "events": [
+            "business",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing70",
+        "events": [
+            "intercept",
+            "date",
+            "transfer",
+            "bank",
+            "mr"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing71",
+        "events": [
+            "weapons",
+            "north",
+            "plane",
+            "arms",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing72",
+        "events": [
+            "international",
+            "police",
+            "hotel",
+            "found",
+            "minsky"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing73",
+        "events": [
+            "arms",
+            "yemen",
+            "gun",
+            "saudi",
+            "al"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing74",
+        "events": [
+            "plane",
+            "bangkok",
+            "police",
+            "arms",
+            "mr"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing75",
+        "events": [
+            "mr",
+            "september",
+            "police",
+            "arms",
+            "security"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing76",
+        "events": [
+            "arms",
+            "yemen",
+            "equipment",
+            "saudi",
+            "al"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing77",
+        "events": [
+            "russian",
+            "surveillance",
+            "international",
+            "arms",
+            "september"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing78",
+        "events": [
+            "minsky",
+            "weapons",
+            "north",
+            "plane",
+            "bangkok"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing79",
+        "events": [
+            "company",
+            "business",
+            "transfer",
+            "bank",
+            "contract"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing8",
+        "events": [
+            "phone registered",
+            "mobile phone",
+            "surveillance",
+            "khouri",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing80",
+        "events": [
+            "intercept",
+            "caller",
+            "business",
+            "transfer",
+            "bank"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing81",
+        "events": [
+            "company",
+            "transfer",
+            "bank",
+            "business",
+            "contract"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing82",
+        "events": [
+            "transfer",
+            "bank",
+            "january",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing83",
+        "events": [
+            "october",
+            "meet",
+            "phone registered",
+            "mobile phone",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing84",
+        "events": [
+            "transfer",
+            "bank",
+            "ministry",
+            "company",
+            "contract"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing85",
+        "events": [
+            "transfer",
+            "bank",
+            "ministry",
+            "company",
+            "contract"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing86",
+        "events": [
+            "karachi",
+            "bukhari",
+            "provided cia",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing87",
+        "events": [
+            "khouri",
+            "january",
+            "kasem",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing88",
+        "events": [
+            "january",
+            "phone",
+            "caller",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing89",
+        "events": [
+            "phone registered",
+            "mobile phone",
+            "transfer",
+            "bank",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing9",
+        "events": [
+            "mobile phone",
+            "place",
+            "cell",
+            "telephone intercept",
+            "caller"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing90",
+        "events": [
+            "december",
+            "parts",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing91",
+        "events": [
+            "meet",
+            "phone registered",
+            "mobile phone",
+            "october",
+            "parts"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing92",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing93",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing94",
+        "events": [
+            "call",
+            "december",
+            "meet",
+            "phone registered",
+            "mobile phone"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing95",
+        "events": [
+            "phone registered",
+            "mobile phone",
+            "transfer",
+            "bank",
+            "business"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing96",
+        "events": [
+            "yemen",
+            "gun",
+            "saudi",
+            "al",
+            "arms"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing97",
+        "events": [
+            "caller",
+            "khouri",
+            "mr",
+            "security",
+            "kasem"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing98",
+        "events": [
+            "saudi",
+            "al",
+            "september",
+            "police",
+            "security"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "ArmsDealing99",
+        "events": [
+            "caller",
+            "september",
+            "police",
+            "mr",
+            "security"
+        ]
+    }
+]

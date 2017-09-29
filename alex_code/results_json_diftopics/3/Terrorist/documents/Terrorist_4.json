@@ -1,0 +1,2530 @@
+[
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity1",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity10",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity100",
+        "events": [
+            "jardine fleming",
+            "shares",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity101",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity102",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity103",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity104",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity105",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity106",
+        "events": [
+            "lloyd",
+            "mutual funds",
+            "market",
+            "jardine fleming",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity107",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity108",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity109",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity11",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity110",
+        "events": [
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "president",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity111",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity112",
+        "events": [
+            "mr derryberry",
+            "funds",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity113",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity114",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity115",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity116",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity117",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity118",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity119",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity12",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity120",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity121",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity122",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity123",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity124",
+        "events": [
+            "companies",
+            "funds",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity125",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity126",
+        "events": [
+            "mr",
+            "shares",
+            "company",
+            "president",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity127",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity128",
+        "events": [
+            "party",
+            "mr",
+            "games",
+            "market",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity129",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity13",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity130",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity131",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity132",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity133",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity134",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity135",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity136",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity137",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity138",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity139",
+        "events": [
+            "mr derryberry",
+            "funds",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity14",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity140",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity141",
+        "events": [
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "president",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity142",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity143",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity144",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity145",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity146",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity147",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity148",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity149",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity15",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity150",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity151",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity152",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity153",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity154",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity156",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity157",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity158",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity159",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "games",
+            "party",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity16",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity17",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity18",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity19",
+        "events": [
+            "companies",
+            "president",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity2",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity20",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity21",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity22",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity23",
+        "events": [
+            "jardine fleming",
+            "shares",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity24",
+        "events": [
+            "jardine fleming",
+            "shares",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity25",
+        "events": [
+            "shares",
+            "games",
+            "company",
+            "market",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity26",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity27",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity28",
+        "events": [
+            "shares",
+            "jardine fleming",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity29",
+        "events": [
+            "shares",
+            "jardine fleming",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity3",
+        "events": [
+            "mr derryberry",
+            "funds",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity30",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity31",
+        "events": [
+            "funds",
+            "shares",
+            "company",
+            "president",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity32",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity33",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity34",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity35",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity36",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity37",
+        "events": [
+            "party",
+            "mr",
+            "market",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity38",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity39",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity4",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity40",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity41",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity42",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity43",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity44",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity45",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity46",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity47",
+        "events": [
+            "president",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity48",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity49",
+        "events": [
+            "shares",
+            "company",
+            "jardine fleming",
+            "market",
+            "funds"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity5",
+        "events": [
+            "president",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity50",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity51",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity52",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity53",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity54",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity55",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity56",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity57",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity58",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity59",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity6",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity60",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity61",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity62",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity63",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity64",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity65",
+        "events": [
+            "mr",
+            "shares",
+            "company",
+            "market",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity66",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity67",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity68",
+        "events": [
+            "market",
+            "mr",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity69",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity7",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity70",
+        "events": [
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "market",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity71",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity72",
+        "events": [
+            "vastpress vastopolis",
+            "company",
+            "jardine fleming",
+            "market",
+            "funds"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity73",
+        "events": [
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity74",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity75",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity76",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity77",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity78",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity79",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity8",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity80",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity81",
+        "events": [
+            "company",
+            "mr",
+            "games",
+            "market",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity82",
+        "events": [
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity83",
+        "events": [
+            "market",
+            "mr",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity84",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity85",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity86",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity87",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity88",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity89",
+        "events": [
+            "companies",
+            "shares",
+            "company",
+            "president",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity9",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity90",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity91",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity92",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity93",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity94",
+        "events": [
+            "shares",
+            "jardine fleming",
+            "company",
+            "funds",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity95",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity96",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity97",
+        "events": [
+            "hong kong",
+            "companies",
+            "shares",
+            "company",
+            "market"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity98",
+        "events": [
+            "codi",
+            "mr derryberry",
+            "party",
+            "games",
+            "president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity99",
+        "events": [
+            "vastpress vastopolis",
+            "funds funds",
+            "lloyd",
+            "mutual funds",
+            "jardine fleming"
+        ]
+    }
+]
