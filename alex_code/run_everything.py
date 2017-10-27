@@ -34,6 +34,9 @@ for i,dataset in enumerate(datasets):
                         os.path.abspath('results_json/'+dataset+"/topics/"+dataset+"_"+str(NUM_TOPICS)+".json"),
                         os.path.abspath('results_json/' + dataset + "/tasks/" + dataset + "_" + str(num_tasks) + ".json"),
                         os.path.abspath('results_json/' + dataset + "/documents/" + dataset + "_" + str(num_tasks) + ".json"),
+                        os.path.abspath('New_datasets/' + dataset),
+                        os.path.abspath('results_json/' + dataset),
+                        os.path.abspath('mallet_results/' + dataset),
                         str(num_tasks)])
 
 print("-- DONE --")
