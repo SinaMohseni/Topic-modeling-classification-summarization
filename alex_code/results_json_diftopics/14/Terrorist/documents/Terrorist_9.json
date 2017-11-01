@@ -1,0 +1,2530 @@
+[
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity1",
+        "events": [
+            "japan",
+            "stock exchange",
+            "sales",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity10",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity100",
+        "events": [
+            "claims",
+            "sales",
+            "saudi arabia",
+            "vice president",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity101",
+        "events": [
+            "million shares",
+            "hong kong",
+            "mr derryberry",
+            "cents hk",
+            "vastpress vastopolis"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity102",
+        "events": [
+            "prices",
+            "earnings",
+            "tax",
+            "capital gains",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity103",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity104",
+        "events": [
+            "company",
+            "shubert",
+            "player",
+            "team",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity105",
+        "events": [
+            "million shares",
+            "hong kong",
+            "vastpress vastopolis",
+            "cents hk",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity106",
+        "events": [
+            "deere",
+            "years ago",
+            "farmers",
+            "case",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity107",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity108",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity109",
+        "events": [
+            "medical",
+            "hospital",
+            "care",
+            "pain",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity11",
+        "events": [
+            "deere",
+            "years ago",
+            "farmers",
+            "vice president",
+            "case"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity110",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity111",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity112",
+        "events": [
+            "pain",
+            "farmers",
+            "case",
+            "mr derryberry",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity113",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity114",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity115",
+        "events": [
+            "coalition",
+            "airbus",
+            "police",
+            "vastpress vastopolis",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity116",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity117",
+        "events": [
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "sales",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity118",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity119",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity12",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity120",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity121",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity122",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity123",
+        "events": [
+            "coalition",
+            "faa",
+            "police",
+            "airbus",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity124",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity125",
+        "events": [
+            "cents hk",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity126",
+        "events": [
+            "economy",
+            "rates",
+            "economic",
+            "tax",
+            "capital gains"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity127",
+        "events": [
+            "run",
+            "pill",
+            "bank",
+            "foreign",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity128",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity129",
+        "events": [
+            "racket",
+            "vice president",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity13",
+        "events": [
+            "coalition",
+            "police",
+            "airbus",
+            "valujet",
+            "vastpress vastopolis"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity130",
+        "events": [
+            "day",
+            "shubert",
+            "player",
+            "team",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity131",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity132",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity133",
+        "events": [
+            "coca cola",
+            "games",
+            "atlanta",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity134",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity135",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity136",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity137",
+        "events": [
+            "medical",
+            "hospital",
+            "care",
+            "pain",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity138",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity139",
+        "events": [
+            "coalition",
+            "faa",
+            "airbus",
+            "police",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity14",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity140",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity141",
+        "events": [
+            "vice president",
+            "players",
+            "day",
+            "shubert",
+            "team"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity142",
+        "events": [
+            "names",
+            "claims",
+            "saudi arabia",
+            "vice president",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity143",
+        "events": [
+            "games",
+            "names",
+            "claims",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity144",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity145",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity146",
+        "events": [
+            "economy",
+            "rates",
+            "economic",
+            "tax",
+            "capital gains"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity147",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity148",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "hong kong",
+            "million shares",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity149",
+        "events": [
+            "pill",
+            "team",
+            "bank",
+            "foreign",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity15",
+        "events": [
+            "stock exchange",
+            "share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity150",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity151",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity152",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity153",
+        "events": [
+            "racket",
+            "vice president",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity154",
+        "events": [
+            "plant",
+            "racket",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity156",
+        "events": [
+            "day",
+            "mr",
+            "shubert",
+            "player",
+            "team"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity157",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity158",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity159",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity16",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity17",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity18",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity19",
+        "events": [
+            "codi",
+            "company",
+            "sales",
+            "mr derryberry",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity2",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity20",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity21",
+        "events": [
+            "million shares",
+            "codi",
+            "hong kong",
+            "cents hk",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity22",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity23",
+        "events": [
+            "vastpress vastopolis",
+            "valujet",
+            "company",
+            "lloyd",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity24",
+        "events": [
+            "earnings",
+            "vice president",
+            "jardine fleming",
+            "sales",
+            "funds"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity25",
+        "events": [
+            "security",
+            "coca cola",
+            "games",
+            "atlanta",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity26",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity27",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity28",
+        "events": [
+            "company",
+            "saudi arabia",
+            "sales",
+            "vice president",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity29",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity3",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity30",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity31",
+        "events": [
+            "plant",
+            "racket",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity32",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity33",
+        "events": [
+            "prices",
+            "earnings",
+            "million shares",
+            "stock exchange",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity34",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity35",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity36",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity37",
+        "events": [
+            "pill",
+            "health",
+            "bank",
+            "foreign",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity38",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity39",
+        "events": [
+            "day",
+            "shubert",
+            "player",
+            "team",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity4",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity40",
+        "events": [
+            "prices",
+            "earnings",
+            "company",
+            "sales",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity41",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity42",
+        "events": [
+            "medical",
+            "hospital",
+            "care",
+            "pain",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity43",
+        "events": [
+            "insurance",
+            "names",
+            "claims",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity44",
+        "events": [
+            "coalition",
+            "police",
+            "airbus",
+            "valujet",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity45",
+        "events": [
+            "rates",
+            "economic",
+            "tax",
+            "capital gains",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity46",
+        "events": [
+            "medical",
+            "hospital",
+            "care",
+            "pain",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity47",
+        "events": [
+            "industry",
+            "cents hk",
+            "health",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity48",
+        "events": [
+            "convention",
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity49",
+        "events": [
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "vice president",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity5",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity50",
+        "events": [
+            "deal",
+            "japan",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity51",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity52",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity53",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity54",
+        "events": [
+            "bankruptcy",
+            "pain",
+            "mr codi",
+            "health",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity55",
+        "events": [
+            "sales",
+            "player",
+            "lloyd",
+            "mr",
+            "team"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity56",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity57",
+        "events": [
+            "economy",
+            "rates",
+            "economic",
+            "tax",
+            "capital gains"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity58",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity59",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity6",
+        "events": [
+            "deere",
+            "years ago",
+            "vice president",
+            "farmers",
+            "case"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity60",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity61",
+        "events": [
+            "day",
+            "mr derryberry",
+            "shubert",
+            "player",
+            "team"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity62",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity63",
+        "events": [
+            "coalition",
+            "faa",
+            "police",
+            "airbus",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity64",
+        "events": [
+            "quarter",
+            "cents share",
+            "prices",
+            "earnings",
+            "sales"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity65",
+        "events": [
+            "economy",
+            "rates",
+            "economic",
+            "tax",
+            "capital gains"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity66",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity67",
+        "events": [
+            "coalition",
+            "police",
+            "airbus",
+            "valujet",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity68",
+        "events": [
+            "airbus",
+            "health",
+            "vastpress vastopolis",
+            "police",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity69",
+        "events": [
+            "names",
+            "claims",
+            "vice president",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity7",
+        "events": [
+            "coalition",
+            "faa",
+            "airbus",
+            "police",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity70",
+        "events": [
+            "economy",
+            "rates",
+            "economic",
+            "tax",
+            "capital gains"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity71",
+        "events": [
+            "reals thousand",
+            "million shares",
+            "funds",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity72",
+        "events": [
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "vice president",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity73",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity74",
+        "events": [
+            "run",
+            "pill",
+            "bank",
+            "foreign",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity75",
+        "events": [
+            "day",
+            "shubert",
+            "player",
+            "vice president",
+            "team"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity76",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "hong kong",
+            "million shares",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity77",
+        "events": [
+            "corp",
+            "deal",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity78",
+        "events": [
+            "security",
+            "vice president",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity79",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity8",
+        "events": [
+            "plant",
+            "racket",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity80",
+        "events": [
+            "copper",
+            "deere",
+            "years ago",
+            "farmers",
+            "case"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity81",
+        "events": [
+            "racket",
+            "vice president",
+            "contract",
+            "power",
+            "union"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity82",
+        "events": [
+            "medical",
+            "hospital",
+            "care",
+            "pain",
+            "health"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity83",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity84",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                1,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity85",
+        "events": [
+            "insurance",
+            "names",
+            "claims",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity86",
+        "events": [
+            "deal",
+            "case",
+            "industry",
+            "company",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                7,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity87",
+        "events": [
+            "thousand shares",
+            "reals thousand",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                6,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity88",
+        "events": [
+            "coalition",
+            "faa",
+            "police",
+            "airbus",
+            "valujet"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity89",
+        "events": [
+            "lloyd",
+            "contract",
+            "power",
+            "union",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                3,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity9",
+        "events": [
+            "reals thousand",
+            "stock exchange",
+            "million shares",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity90",
+        "events": [
+            "pill",
+            "vice president",
+            "bank",
+            "foreign",
+            "japan"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity91",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity92",
+        "events": [
+            "insurance",
+            "names",
+            "claims",
+            "saudi arabia",
+            "lloyd"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity93",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "games",
+            "atlanta"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                5,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity94",
+        "events": [
+            "funds funds",
+            "fidelity",
+            "mutual funds",
+            "securities",
+            "jardine fleming"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity95",
+        "events": [
+            "president codi",
+            "bankruptcy",
+            "mr codi",
+            "vice president",
+            "mr derryberry"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                8,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity96",
+        "events": [
+            "contract",
+            "power",
+            "union",
+            "funds",
+            "vice president"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                0,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity97",
+        "events": [
+            "thousand shares",
+            "million shares",
+            "reals thousand",
+            "hong kong",
+            "cents hk"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                2,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity98",
+        "events": [
+            "bomb",
+            "security",
+            "coca cola",
+            "atlanta",
+            "games"
+        ]
+    },
+    {
+        "classNum": [
+            [
+                4,
+                1.0
+            ]
+        ],
+        "docName": "TerroristActivity99",
+        "events": [
+            "hospital",
+            "vice president",
+            "care",
+            "pain",
+            "health"
+        ]
+    }
+]
