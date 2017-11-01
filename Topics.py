@@ -37,7 +37,6 @@ os.system('cls')
 startTime = datetime.now()
 lastTime = startTime
 print "\n \n", "Pre-processing and LDA topic modeling,,,"
-print "\n Go get a coffee,,,"
 global last_class
 global topicWordTags
 
@@ -114,6 +113,7 @@ def LDA_Topic(Int_type, de_stemmer, corp,Text_lda1, my_dictionary,Text_tfidf):
     # ------------------- 4 Dictionary and TF-IDF Vectors -------------------    
     ids2words = my_dictionary.token2id
     bow_corpus = [my_dictionary.doc2bow(text) for text in processed_corpus]
+
     # print "------------------>>>>: ", corp
     all_vectors = Text_tfidf[bow_corpus] #bow_corpus]   # Gives representative vectors 	  
 
@@ -121,7 +121,7 @@ def LDA_Topic(Int_type, de_stemmer, corp,Text_lda1, my_dictionary,Text_tfidf):
 
     counter = []
     doc_topics = []
-	
+
     for each in range(0, class_num):
         counter.append(0)
 
@@ -214,10 +214,8 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
 
     stopped_tokens = [[word for word in WordPunctTokenizer().tokenize(str(document).lower()) if ((word not in stoplist) & (word != u'.\u201d<') &(word != u'.\u201d') & (word != u'\u201c') & (len(word) > 2)  & (is_int(word) == False) )]#  & (is_int(word) == False)  & (len(word) > 3) & (len(word) == len(word.strip({0,1,2,3,4,5,6,7,8,9}))) )] #(re.search('\d+',	 word) == False) ) ]
         for document in corp]
-				
-
-    
-	# ------------------- 3 Stemming and Count word frequencies -------------------
+	
+    # ------------------- 3 Stemming and Count word frequencies -------------------
     p_stemmer = PorterStemmer()
     stemmer = {}              
     texts = []	
@@ -260,8 +258,8 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
         i+=1
     # train the model
     Text_tfidf = models.TfidfModel(new_corp)
-    # What if we switch TF-IDF and interaction weighting ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
-    all_vectors = Text_tfidf[new_corp] #bow_corpus]   # Gives representative vectors 	  
+    
+    # all_vectors = Text_tfidf[new_corp] #bow_corpus]   # Gives representative vectors 	  
     
     # print "\n bow_corpus: ", bow_corpus
     # print "\n new weighted Docs: ", new_corp
@@ -277,9 +275,6 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
     
     if os.path.isfile("./LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" +str(class_num)+".lda") ==0 or (new_model == 1):  # Do you want to train the model?
         print "\n LDA Model Training..."   
-        # 1- all_vectors is a weighted doc vectors passed through tfidf model
-        #Text_lda = models.LdaModel(all_vectors, id2word=my_dictionary, num_topics= class_num, passes = LDA_passes)		# with the TF-IDF model
-        # 2- new_corp is a weighted doc vectors
         Text_lda = models.LdaModel(new_corp, id2word=my_dictionary, num_topics= class_num, passes = LDA_passes)		#  with out TF-IDF model
         Text_lda.save("./LDAmodels/LDAmodel_dataset" + str(x) + "_P" + str(y) + "_class" + str(class_num) + ".lda") # same for tfidf, lsa, ...
     else:		
@@ -297,7 +292,7 @@ def LDA_Topic_Clustering(corp,reading_weight, new_model,class_num,LDA_passes,x,y
     for index, document in enumerate(all_vectors):    # Each documents probability to calss
         # infer topic distribution for each document
         doc_topics.append(Text_lda.get_document_topics(document)) # , minimum_probability=0.19)
-#        No_Topic = 1
+    #        No_Topic = 1
         new_list = []		
         for each_topic in doc_topics[-1]:
             new_list.append(each_topic[1])
@@ -373,7 +368,7 @@ def save_topic_docs(EntList, my_dictionary1, docs_number, ids2words, doc_vectors
         
         j=0			
         interference[doc_no] = []		
-#        interference[doc_no].append(topic_index) 			
+        #        interference[doc_no].append(topic_index) 			
         for each in new_list:
             if (each > 0.1):
                 interference[doc_no].append(j) 			
@@ -622,7 +617,6 @@ def save_topic_docs(EntList, my_dictionary1, docs_number, ids2words, doc_vectors
     # print "\n doc_topic_array: ", doc_key_word	
     return doc_topic_array, doc_key_word
 
-
 def Read_dataset(json_file):	
 
     ret = []
@@ -645,11 +639,14 @@ def Read_user_interactions(interaction_file,docs_number):
     search_terms = []	
     reading_time = []		
     note_terms = []	
+    open_time = []
 	
 	#--------------------JSON Logs------------------
     for i in xrange(0,docs_number):
         highlight_plus.append("")
         reading_time.append(0)		
+        open_time.append(0) 
+        
 
     all_interactions = json.load(open(interaction_file))
     i = 0
@@ -662,14 +659,24 @@ def Read_user_interactions(interaction_file,docs_number):
             else: 
                 num = 1
             highlight_plus[num] = a_interaction["Text"] + " "
+
     # ------------------- Reading Time ----------------------			
         if 	a_interaction["InteractionType"] == "Reading" and a_interaction["ID"] != []:
             num = int(a_interaction["ID"].split(" ")[1]) - 1			        
             reading_time[num] += a_interaction["duration"]			
 
+    # ------------------- Open Time ----------------------           
+        if  a_interaction["InteractionType"] == "Doc_open" and a_interaction["ID"] != []:
+            num = int(a_interaction["ID"].split(" ")[1]) - 1                    
+            open_time[num] += a_interaction["duration"]          
+
     # ------------------- Search terms ----------------------			
         if 	a_interaction["InteractionType"] == "Search":
             search_terms.append(a_interaction["Text"])			
+
+    # ------------------- Notes ----------------------           
+        if  a_interaction["InteractionType"] == "Add note":
+            note_terms.append(a_interaction["Text"])          
 			
     search_list = []	
 	
@@ -701,15 +708,15 @@ def Read_user_interactions(interaction_file,docs_number):
 
     #print doc_plus, "\n", search_terms, "\n",reading_time, "\n",
     #return 0        
-    return all_interactions, highlight_plus,reading_time,search_terms,note_terms
+    return all_interactions, highlight_plus,reading_time,search_terms,note_terms, open_time
 
 def documents_interaction(magic_number, data_set_docs, highlight_plus,search_terms,note_terms,docs_number, reading_time):  # Highlights, Reading time, search term, note_term
     iter = 0
     newDataset = []	
     reading_weight = []					
-    #>>>>print "Search terms: ", search_terms, "\n"	 		
-    #>>>>print "Highlight terms: ", highlight_plus, "\n"	 		
-    #>>>>print "Reading Time: ", reading_time, "\n"	 			
+    print "Search terms: ", search_terms, "\n"	 		
+    print "Highlight terms: ", highlight_plus, "\n"	 		
+    print "Reading Time: ", reading_time, "\n"	 			
     tot = sum(list(reading_time))	
     #>>>>print "Total time: " ,tot , "\n"
     
@@ -760,7 +767,7 @@ def classNum(Text_lda, magic_number, doc_name,Int_type,Int_text, doc_topic_array
             mystring2 = (doc_name.split(",")[1])
             num1 = int(mystring1.split(splitby)[1]) - 1		
             classNumtoShow.append(doc_topic_array[num1 - 1])	# minus one from topic_array number		
-#            print "\n" , mystring2		
+            #            print "\n" , mystring2		
             if ("MyNotes" in mystring2.lower()) or ("note" in mystring2.lower()) or ("prompt" in mystring2.lower()) or ("notes" in mystring2.lower()):    #len(mystring2.split(splitby)[1]) > 5: #len(mystring2.split("y")[1] > 5):#isinstance(mystring2.split("y")[1], int):
                 classNumtoShow.append(doc_topic_array[num1 - 1])	# minus one from topic_array number														
             else: 					
@@ -778,31 +785,6 @@ def classNum(Text_lda, magic_number, doc_name,Int_type,Int_text, doc_topic_array
                  
             return classNumtoShow , doc_key_word[num - 1] , (1 + reading_weight[num - 1]) 
 
-def stepHeight(interaction_file,docs_number):
-
-    reading_time = []		
-
-    for i in xrange(0,docs_number):
-        reading_time.append(0)		
-
-    i = 0
-    for a_interaction in all_interactions:
-
-    # ------------------- Open Duration ----------------------			
-        if 	a_interaction["InteractionType"] == "Doc_open" and a_interaction["ID"] != []:
-            num = int(a_interaction["ID"].split(" ")[1]) - 1			        
-            open_time[num] += a_interaction["duration"] 
-
-    # ------------------- Reading Time ----------------------			
-        if 	a_interaction["InteractionType"] == "Reading" and a_interaction["ID"] != []:
-            num = int(a_interaction["ID"].split(" ")[1]) - 1			        
-            reading_time[num] += a_interaction["duration"]		
-
-
-
-			
-    return 0
-
 def seg_duration(Text_lda, magic_number, all_interactions, a_interaction, counter, doc_topic_array, classNumtoShow, last_class, doc_key_word, reading_time, splitby):
 
     i=0
@@ -811,8 +793,8 @@ def seg_duration(Text_lda, magic_number, all_interactions, a_interaction, counte
     time_inter = a_interaction["time"]	
     int_duration = duration_max
 	
-#    print "\n time ", time_inter
- #   print "\n duration ",duration_max	
+    #    print "\n time ", time_inter
+    #   print "\n duration ",duration_max	
 
 	
     for each_int in all_interactions:
@@ -842,7 +824,6 @@ def topic_threads(Text_lda, magic_number, all_interactions, doc_topic_array,doc_
     last_class = 0
     ret = []
     counter = 0
-#    reading_weight = stepHeight(all_interactions, docs_number)
 	
     for a_interaction in all_interactions:
         
@@ -898,13 +879,13 @@ def topic_interests(Text_lda, class_num, magic_number_2, all_interactions, doc_t
     last_class = 0
     ret = []
     counter = 0
-#    reading_weight = stepHeight(all_interactions, docs_number)
+    #    reading_weight = stepHeight(all_interactions, docs_number)
 	
     for a_interaction in all_interactions:
-#    print "\n count: ", counter ," ",magic_number_2, " ",a_interaction["ID"], " ",doc_topic_array, " ",last_class, " ",doc_key_word, " ",reading_time," ",splitby        
+    #    print "\n count: ", counter ," ",magic_number_2, " ",a_interaction["ID"], " ",doc_topic_array, " ",last_class, " ",doc_key_word, " ",reading_time," ",splitby        
 
         classNumtoShow, docKeyWords, reading_w = classNum(Text_lda, magic_number_2, a_interaction["ID"],a_interaction["InteractionType"],a_interaction["Text"],doc_topic_array, last_class, doc_key_word, reading_time,splitby) #reading_weight)	
-#        classNumtoShow, docKeyWords, reading_w = classNum(magic_number, a_interaction["ID"], doc_topic_array, last_class, doc_key_word, reading_time,splitby) #reading_weight)	        
+    #        classNumtoShow, docKeyWords, reading_w = classNum(magic_number, a_interaction["ID"], doc_topic_array, last_class, doc_key_word, reading_time,splitby) #reading_weight)	        
         last_class = classNumtoShow[0]		
         int_duration = seg_duration(Text_lda, magic_number_2, all_interactions, a_interaction, counter, doc_topic_array, classNumtoShow, last_class, doc_key_word, reading_time, splitby)
         counter+=1        
@@ -922,16 +903,7 @@ def topic_interests(Text_lda, class_num, magic_number_2, all_interactions, doc_t
                 temp = {"stepHeight": effect*7, "Time": int(a_interaction["time"]),"Duration": int_duration, "InteractionType" : "search", "ClassNum": [each_class], "DocNum": "",  "tags": [a_interaction["Text"]]} 
                 ret.append(temp)
     # ------------------- Connection ----------------
-#            if a_interaction["InteractionType"] == "Connection":
-#                temp = {"stepHeight": effect*10, "Time": int(a_interaction["time"]),"Duration": int_duration, "InteractionType" : "newConnection", "ClassNum": [each_class], "DocNum": a_interaction["Text"],  "tags": [a_interaction["Text"]]} 
-#                ret.append(temp)			
-    # ------------------- Reading -------------------
-        #if a_interaction["InteractionType"] == "Reading":
-        #    temp = {"stepHeight": , "Time": int(a_interaction["time"]),"Duration": int_duration, "InteractionType" : "read", "ClassNum": [each_class], "DocNum": a_interaction["ID"],  "tags": docKeyWords}
-        #    ret.append(temp)
-    # ------------------- Stop ----------------------			
-        #    temp = {"UserName": "NO.1", "Time": int(a_interaction["time"] + a_interaction["duration"]),"Duration": int_duration, "InteractionType" : "Stop", "ClassNum": [each_class], "DocNum": a_interaction["ID"],  "tags": docKeyWords}
-        #    ret.append(temp)			
+		
     # ------------------- Opening -------------------
             if a_interaction["InteractionType"] == "Doc_open":
                 temp = {"stepHeight": effect * float(5) * reading_w, "Time": int(a_interaction["time"]),"Duration": int_duration, "InteractionType" : "OpenDoc", "ClassNum": [each_class], "DocNum": a_interaction["ID"],  "tags": docKeyWords}
@@ -971,6 +943,42 @@ def segmentation_vector(threads):
 
     return ret
 
+def save_features(data_set_docs, highlight_plus,search_terms, reading_weight, open_time, filename):
+    json_hash = []
+    count = 0
+
+    for each in reading_time:
+        temp = {"docName": name+" "+str(count+1), "content": data_set_docs[count], "reading_time": float(each)/10, "highlight_terms": highlight_plus[count], "search_terms": search_terms[count] , "open_time": float(open_time[count])/10}
+        count += 1
+        json_hash.append(temp)  
+
+        
+
+    # print "\n", json_hash
+    # Write in a .json file
+    fout = open(filename,"w")
+    fout.write(json.dumps(json_hash,indent=1))
+    fout.close()
+    return 0
+
+def save_notes(note_terms, saveNotes): 
+    json_hash = []
+    count = 0
+
+    for each in note_terms:
+        temp = {"Note": count, "Text": each}
+        count += 1
+        json_hash.append(temp)  
+
+        
+
+    # print "\n", json_hash
+    # Write in a .json file
+    fout = open(saveNotes,"w")
+    fout.write(json.dumps(json_hash,indent=1))
+    fout.close()
+    return 0
+
 # def main():
 	
 class_num = 1        # Number of topics in LDA 
@@ -986,7 +994,7 @@ EntList = 1; # Generate Entities list
 # saveContext()
 # restoreContext()
 
-for class_num in xrange(3,11):   #(1,11):
+for class_num in xrange(3,4):   #(1,11):
 
     for dataset_num in xrange(1,4):        #(1,4):
         
@@ -1008,36 +1016,41 @@ for class_num in xrange(3,11):   #(1,11):
             
             # Read documents and user interaction logs
             interactionFile = "./Dataset_"+str(dataset_num)+"/UserInteractions/"+str(dataset)+"_P"+str(participant_num)+"_InteractionsLogs.json";
-            datasetFile = "./Dataset_"+str(dataset_num)+"/Dataset/Documents_Dataset_"+str(dataset_num)+".json"
+            datasetFile = "./Dataset_"+str(dataset_num)+"/Dataset/Dataset_"+str(dataset_num)+".json"
             data_set_docs, docs_number = Read_dataset(datasetFile)
-            all_interactions, highlight_plus,reading_time,search_terms,note_terms = Read_user_interactions(interactionFile,docs_number) 
+            all_interactions, highlight_plus,reading_time,search_terms,note_terms, open_time= Read_user_interactions(interactionFile,docs_number) 
             
             # document vectors
             document_plus, reading_weight = documents_interaction(magic_number, data_set_docs, highlight_plus,search_terms,note_terms,docs_number, reading_time)    
 
-            # Run LDA, save results for each document
-            finalBag, topicWordTags,topicWordTags2,topicWordTags3,de_stemmer, ids2words_, doc_vectors_, Text_lda_, my_dictionary,Text_tfidf, output_topics_, de_stemmer_, doc_topics_ = LDA_Topic_Clustering(document_plus,reading_weight, new_model ,class_num , LDA_passes,dataset_num, participant_num)
+            saveFeatures = "./Dataset_"+str(dataset_num)+"/Dataset/Dataset_"+str(dataset_num)+"_features_P"+str(participant_num)+".json"
+            saveNotes = "./Dataset_"+str(dataset_num)+"/Dataset/Notes_P"+str(participant_num)+".json"
+            save_features(data_set_docs, highlight_plus,search_terms, reading_weight, open_time, saveFeatures)
+            save_notes(note_terms, saveNotes)
 
-            # Extract and save document keywords
-            docTopicsFile = "./TopicDocs/" +str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
-            ldaTopicsFile = "./Dataset_" +str(dataset_num)+ "/LDATopics/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
-            entityListFile = "./Dataset_" +str(dataset_num)+ "/EntitiesList/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
-            doc_topic_array_, doc_key_word_ = save_topic_docs(0,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
+            # # Run LDA, save results for each document
+            # finalBag, topicWordTags,topicWordTags2,topicWordTags3,de_stemmer, ids2words_, doc_vectors_, Text_lda_, my_dictionary,Text_tfidf, output_topics_, de_stemmer_, doc_topics_ = LDA_Topic_Clustering(document_plus,reading_weight, new_model ,class_num , LDA_passes,dataset_num, participant_num)
+
+            # # Extract and save document keywords
+            # docTopicsFile = "./TopicDocs/" +str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            # ldaTopicsFile = "./Dataset_" +str(dataset_num)+ "/LDATopics/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            # entityListFile = "./Dataset_" +str(dataset_num)+ "/EntitiesList/" + str(dataset) + "_P" + str(participant_num) + "_ClassNum" + str(class_num) + ".json"
+            # doc_topic_array_, doc_key_word_ = save_topic_docs(0,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
  
-            # calculate, sort and save topic threads
-            threads = topic_threads(Text_lda_, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby) 
-            threads = sorted(threads, key=lambda k: k['Time'])
-            save_threads(threads, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicThread_"+ str(class_num)+ ".json" )
+            # # calculate, sort and save topic threads
+            # threads = topic_threads(Text_lda_, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby) 
+            # threads = sorted(threads, key=lambda k: k['Time'])
+            # save_threads(threads, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicThread_"+ str(class_num)+ ".json" )
     
-            # calculate, sort and save interests threads
-            interests = topic_interests(Text_lda_,class_num, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby)
-            interests = sorted(interests, key=lambda k: k['Time'])
-            save_threads(interests, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicInterest_" + str(class_num)+ ".json" )
+            # # calculate, sort and save interests threads
+            # interests = topic_interests(Text_lda_,class_num, magic_number_2, all_interactions, doc_topic_array_, doc_key_word_, docs_number, reading_time, splitby)
+            # interests = sorted(interests, key=lambda k: k['Time'])
+            # save_threads(interests, "./Dataset_" + str(dataset_num) + "/ProvThreads/" + str(dataset) +"_P" + str(participant_num) + "_topicInterest_" + str(class_num)+ ".json" )
 
-            doc_topic_array_, doc_key_word_ = save_topic_docs(1,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
+            # doc_topic_array_, doc_key_word_ = save_topic_docs(1,my_dictionary, docs_number, ids2words_, doc_vectors_, output_topics_, doc_topics_,de_stemmer_, class_num,keyword_num, docTopicsFile, ldaTopicsFile, entityListFile)
 
-            print "total time: ", datetime.now() - lastTime
-            lastTime = datetime.now()
+            # print "total time: ", datetime.now() - lastTime
+            # lastTime = datetime.now()
     
 
 print "\n"
